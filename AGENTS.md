@@ -55,6 +55,7 @@ scripts/sync-glossary-terms.js  Refresh data/glossary-terms.json from cronologia
 scripts/sync-places.js   Refresh data/places.json from cronologia/core (out-of-band; sibling checkout or network); --check detects a stale copy
 scripts/translate.js     Fills data/i18n/*.json from a translation backend (env-configured; no-op offline)
 build.js                 Compiler: data/chronology.json (+ i18n + archives) -> docs/{en,es,pt}/ + sitemap + robots
+conflict.js              THIS REPO'S OWN renderer (olavo philosophers.js idiom): the "Knights and the Klan" dossier page at /{lang}/kkk/, driven by the optional `conflictPage` data key (ADR-0001: absent key = byte-identical build); timeline DERIVED from events tagged with the anti-catholic-conflict lane, never duplicated
 test/                    node:test suites (helpers + data invariants + per-locale drift check)
 .github/workflows/deploy.yml  CI: validate, test, build, drift check, Pages deploy (main + manual dispatch)
 .github/workflows/wayback.yml CI: weekly archive-refs run; commits data/archives.json + rebuilt docs/

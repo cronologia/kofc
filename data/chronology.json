@@ -1112,6 +1112,84 @@
       }
     ]
   },
+  "conflictPage": {
+    "slug": "kkk",
+    "lane": "anti-catholic-conflict",
+    "title": "The Knights and the Klan",
+    "subtitle": "The fabricated oath, the courts that condemned it, the Klan decade, and how the Klan actually ended — documented from the acts",
+    "summary": "A separate page for this project's second focus: the campaign of fabricated evidence against the Knights of Columbus, the congressional and judicial acts that condemned it, the second Ku Klux Klan's decade, the Order's answers — and the historians' account of how the Klan actually ended.",
+    "intro": "This dossier collects, in one place, the documented conflict between the Knights of Columbus and organized anti-Catholicism in the United States. Its rule is the project's rule: cite the acts — the Congressional Record, the court decisions, the period newspapers, the archival scans — and attribute every characterization to whoever makes it. The fabricated \"bogus oath\" appears here as what the record shows it to be: a forgery condemned by a committee of the U.S. House of Representatives and punished by the courts.",
+    "sources": ["crecb-1913-02-15", "kofc-criminal-libel-pamphlet-1914"],
+    "note": "Every event below is drawn from the main chronology — these are the rows tagged with the anti-Catholic-conflict lane, unchanged. A ? flag marks dates not yet verified against a primary source.",
+    "sections": [
+      {
+        "id": "the-forgery",
+        "heading": "A forged oath enters public life (1912)",
+        "paragraphs": [
+          "In the autumn of 1912, during the contest for Pennsylvania's 7th congressional district, a text purporting to be the Knights' Fourth Degree oath — pledging its takers to hang, burn and strangle heretics — was circulated against the Democratic candidate, Eugene C. Bonniwell, a Fourth Degree Knight. Where it came from has never been established: Time traced it in 1928 to Chester County, Pennsylvania, and in 1960 to a tract mailed from Aurora, Missouri, home of the anti-Catholic weekly The Menace, which sold copies in bulk. Its authorship is unknown to every source this project has reached.",
+          "Surviving broadsides of the forgery carry the heading \"Taken from the Congressional Record of February 15\" — one is preserved in the Digital Library of Georgia. The heading is the forgery's neatest trick: the Congressional Record of that date is the document that condemned it."
+        ],
+        "sources": ["crecb-1913-02-15", "dlg-broadside-1913", "time-fake-oath-1928", "time-fake-oath-1960"]
+      },
+      {
+        "id": "congress",
+        "heading": "Congress examines it and finds it spurious (1913)",
+        "paragraphs": [
+          "Bonniwell contested the election, and the House Committee on Elections No. 1 examined the campaign against him. Its report, printed in the Congressional Record of 15 February 1913, reproduces the oath as an exhibit, records that the winner himself — Republican Thomas S. Butler — repudiated it, and, as reprinted with page citations in later notices, declares that the committee \"cannot condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus Oath\"."
+        ],
+        "sources": ["crecb-1913-02-15", "independent-1928-reward"]
+      },
+      {
+        "id": "the-courts",
+        "heading": "The courts convict its publishers (1913–1917)",
+        "paragraphs": [
+          "Prosecutions followed in four jurisdictions. In St. John's, Newfoundland, Charles A. Swift admitted the criminal-libel charge and apologized (February 1913). In Philadelphia, the printer Charles Megonegal pleaded guilty and his distributor nolo contendere, before a court where the future Supreme Court justice Owen J. Roberts assisted the prosecution; the record, as the Order's pamphlet reprints it, states that \"evidence was introduced that the 'fake oath' was utterly false\" (January 1914). In Waterville, Minnesota, a jury whose foreman was the town's Methodist minister convicted two publishers, and the Order's Supreme Secretary placed the real Fourth Degree obligation into a court record for the first time (August 1914). And in 1917 the Oklahoma Court of Criminal Appeals sustained Roy Crane's conviction, holding that libel of an identifiable class is actionable, and that proving the oath false did not require disclosing the true obligation."
+        ],
+        "sources": ["kofc-criminal-libel-pamphlet-1914", "catholic-bulletin-1913-03-01", "manchester-democrat-1914-08-19", "crane-v-state-1917"]
+      },
+      {
+        "id": "the-klan-decade",
+        "heading": "The second Klan takes it up (1915–1928)",
+        "paragraphs": [
+          "The Ku Klux Klan refounded at Stone Mountain in 1915 was anti-Catholic as well as white-supremacist — the characterization is the scholarship's, and the Klan's own press bears it out: the Fiery Cross, its Indianapolis weekly, engaged the Knights and the \"alleged\" oath across its 1922–1924 run. The decade's violence reached the Order directly in Birmingham, where Fr. James E. Coyle, chaplain of the local council, was shot dead by a Klansman minister in 1921 — the Klan paid for the defense, and the jury acquitted, per the Order's account.",
+          "The Klan's largest political project against Catholic institutions was Oregon's 1922 Compulsory Education Act, which would have closed the Catholic schools. It died in Pierce v. Society of Sisters (1925), the Supreme Court holding unanimously that \"the child is not the mere creature of the State\". The Order states that it helped finance the litigation; the claim is the Order's own."
+        ],
+        "sources": ["jenkins-wph-kkk-pa", "fiery-cross-hoosier", "columbia-knights-vs-klan-2017", "educationnext-pierce", "pierce-lii"]
+      },
+      {
+        "id": "the-answer",
+        "heading": "The Order's answer: study, publicity, print (1914–1928)",
+        "paragraphs": [
+          "The Order fought with institutions rather than fists. The Commission on Religious Prejudices (1914–1917), chaired by Patrick Henry Callahan, was created \"to study the causes, investigate conditions and suggest remedies\" for the prejudice campaign; its published reports survive in archival scans. In 1924 the Order's Historical Commission published the Racial Contributions series — W. E. B. Du Bois's The Gift of Black Folk, George Cohen's The Jews in the Making of America, Frederick Franklin Schrader's The Germans in the Making of America — setting a founder of the NAACP against the Klan's version of American history. And in the 1928 campaign season it bought newspaper space for a standing $25,000 reward for anyone who could prove the oath genuine, reprinting the House committee's finding with its page citations."
+        ],
+        "sources": ["encyclopedia-callahan", "commission-reports-1915-1917", "dubois-gift-1924", "cohen-jews-1924", "schrader-germans-1924", "independent-1928-reward", "time-fake-oath-1928"]
+      },
+      {
+        "id": "who-fought-in-the-street",
+        "heading": "Who fought in the street — and who did not",
+        "paragraphs": [
+          "Catholics did meet the Klan physically, twice in ways the record preserves: at Carnegie, Pennsylvania, in August 1923, where town residents — largely Irish Catholics — fought a ten-thousand-strong Klan march until a Klansman was shot dead; and at South Bend in May 1924, where University of Notre Dame students routed a rally called by D. C. Stephenson. Neither was the Knights of Columbus as an organization, and this project keeps the distinction: the verified accounts of both episodes contain no organized Knights involvement."
+        ],
+        "sources": ["jenkins-wph-kkk-pa", "triblive-carnegie", "nd-magazine-klan-1924"]
+      },
+      {
+        "id": "how-the-klan-ended",
+        "heading": "How the Klan actually ended",
+        "paragraphs": [
+          "The Klan collapsed from the inside. In November 1925 D. C. Stephenson, Grand Dragon of Indiana, was convicted of the second-degree murder of Madge Oberholtzer; the documents he released from prison brought indictments against Governor Ed Jackson and other Klan-allied officials, and the Indianapolis Times won the 1928 Pulitzer Prize for the crusade that published them. Historians put the membership fall at several million (estimates range from about two to six million) down to roughly 350,000 by 1927 and about 30,000 by 1930, and attribute it to leadership corruption, feuding, scandal, press exposure and fading novelty. Reviewing the one popular book that credits the South Bend confrontation, the Indiana-Klan historian Allen Safianow judged it \"made little contribution to the Indiana Klan's precipitous decline\". No scholarly account reached by this project credits the Knights of Columbus — or street confrontation — with the Klan's fall; what the Order demonstrably won was the documentary war about itself."
+        ],
+        "sources": ["linder-stephenson-trial", "ihb-indianapolis-times-marker", "lay-nge-kkk-20th", "waxman-time-2017-kkk", "safianow-imh-tucker-review"]
+      },
+      {
+        "id": "resurfacings",
+        "heading": "The forgery outlives the Klan (1928–2018)",
+        "paragraphs": [
+          "The oath flooded Al Smith's 1928 campaign — Time reported that a million copies had recently been handed about — and returned against John F. Kennedy in 1960, when Time again printed its history and the genuine obligation. In December 2018, senators questioned a judicial nominee over whether the Knights' positions were \"extreme\" and whether he would resign his membership; Catholic press coverage invoked the older history, and the framing dispute is recorded in this dataset as an attributed disagreement, not a finding."
+        ],
+        "sources": ["time-fake-oath-1928", "time-fake-oath-1960", "cwr-buescher-2018"]
+      }
+    ]
+  },
   "references": [
     {
       "id": "kofc-history-timeline",
