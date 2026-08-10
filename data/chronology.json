@@ -141,14 +141,16 @@
     },
     {
       "year": 1882,
-      "dateVerified": false,
-      "dateNote": "February 1882; the day is disputed — the 1913 Catholic Encyclopedia says the society was founded on 2 February 1882, while the Order's own timeline says the first members chose Columbus as patron on 6 February 1882. Both agree on the surrounding dates (2 October 1881; 29 March 1882).",
+      "date": "1882-02-06",
+      "dateVerified": true,
+      "dateNote": "6 February 1882: the New Haven Morning Journal and Courier of 8 February reports \"the first meeting of those interested in the Catholic organization known as the Knights of Columbus\" held the previous Monday. The 1913 Catholic Encyclopedia's tradition of 2 February has no period attestation this project has located; whether the name was chosen at the 6 February meeting or earlier is not settled.",
       "place": "New Haven, Connecticut, USA",
-      "title": "The name \"Knights of Columbus\" is adopted",
-      "text": "The founding members choose Christopher Columbus as patron — a name that, in the reading the Order itself gives, claimed both Catholic identity and American patriotism at once, against the nativist argument that Catholics could not be full citizens.",
+      "title": "The first general meeting under the name \"Knights of Columbus\"",
+      "text": "About sixty men meet at St. Mary's church, presided over by James T. Mullen — \"the first meeting of those interested in the Catholic organization known as the Knights of Columbus\", a contemporaneous New Haven paper reports. The Order dates the choice of Columbus as patron to this meeting — a name that, in the reading the Order itself gives, claimed both Catholic identity and American patriotism at once, against the nativist argument that Catholics could not be full citizens.",
       "sources": [
-        "cathen-1913-kofc",
-        "kofc-history-timeline"
+        "mjc-1882-02-08",
+        "kofc-history-timeline",
+        "cathen-1913-kofc"
       ],
       "threads": [
         "institution"
@@ -189,11 +191,11 @@
       "dateVerified": true,
       "place": "Thomaston, Connecticut, USA",
       "title": "Fr. McGivney dies at 38",
-      "text": "Michael J. McGivney, by then pastor of St. Thomas Church in Thomaston, dies two days after his 38th birthday. Accounts widely attribute the death to pneumonia in the influenza pandemic of 1889–90; this dataset has not verified the cause against a primary document.",
+      "text": "Michael J. McGivney, by then pastor of St. Thomas Church in Thomaston, dies two days after his 38th birthday. The same-day obituary in the Waterbury Evening Democrat records an illness dating from the influenza of the previous winter, pneumonia in January, and a general decline thereafter; the McGivney Guild's account adds tuberculosis, an attribution recorded here as the Guild's.",
       "sources": [
-        "kofc-history-timeline",
-        "cna-beatification",
-        "mcgivney-guild-life"
+        "waterbury-democrat-1890-08-14",
+        "mcgivney-guild-life",
+        "kofc-history-timeline"
       ],
       "threads": [
         "institution"
@@ -307,7 +309,7 @@
       "dateVerified": true,
       "place": "Washington, D.C., USA",
       "title": "A House committee brands the oath \"spurious\"",
-      "text": "In the contested-election case of Bonniwell v. Butler, the House Committee on Elections No. 1 reports to the full House; the report, printed in the Congressional Record of 15 February 1913, reproduces the fabricated oath as an exhibit and Butler's repudiation of it. As quoted with page citations in later reprints, the committee declared it \"cannot condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus Oath\". This is the primary public debunking act, and the document later distributors would misrepresent as congressional endorsement.",
+      "text": "In the contested-election case of Bonniwell v. Butler, the House Committee on Elections No. 1 reports to the full House; the report, printed in the Congressional Record of 15 February 1913, reproduces the fabricated oath as an exhibit and Butler's repudiation of it. The committee's words, read on page 3221 of the Record itself: \"This committee can not condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus oath, a copy of which is appended to the paper.\" This is the primary public debunking act, and the document later distributors would misrepresent as congressional endorsement.",
       "sources": [
         "crecb-1913-02-15",
         "kofc-criminal-libel-pamphlet-1914",
@@ -381,15 +383,15 @@
     },
     {
       "year": 1914,
-      "dateVerified": false,
-      "dateNote": "1914; the year is well attested, but the exact date and venue of the Supreme Council action were not established in the sources reached.",
-      "place": "United States",
+      "dateVerified": true,
+      "dateNote": "August 1914, at the Supreme Council's annual convention in St. Paul, Minnesota, per the Commission's own published reports; the day is not stated there.",
+      "place": "St. Paul, Minnesota, USA",
       "title": "The Commission on Religious Prejudices is created",
-      "text": "The Supreme Council institutes a Commission on Religious Prejudices — mandated, per the New Catholic Encyclopedia's account, \"to study the causes, investigate conditions and suggest remedies for the religious prejudice that has been manifest through the press and rostrum\" — and the Kentucky industrialist Patrick Henry Callahan chairs it. The Order's chosen instrument against the slander campaign is study and publicity, not litigation alone.",
+      "text": "The Supreme Council, meeting at St. Paul in August 1914, authorizes up to fifty thousand dollars \"to study the causes, investigate conditions and suggest remedies for the religious prejudice that has been manifest through press and rostrum\" and directs the appointment of a five-member Commission on Religious Prejudices — the resolution as the Commission's own 1915 report prints it. The Kentucky industrialist Patrick Henry Callahan chairs it from October 1914. The Order's chosen instrument against the slander campaign is study and publicity, not litigation alone.",
       "sources": [
+        "commission-reports-1915-1917",
         "encyclopedia-callahan",
-        "filson-callahan",
-        "kofc-history-timeline"
+        "filson-callahan"
       ],
       "threads": [
         "anti-catholic-conflict",
@@ -431,7 +433,7 @@
       "dateNote": "1917; the hut program began after the U.S. declaration of war on 6 April 1917.",
       "place": "United States and France",
       "title": "The K of C Huts of the First World War",
-      "text": "After the United States enters the war, the Order opens recreation and welfare centers — the \"K of C Huts\" — for troops in training camps and at the front, under the motto \"Everybody Welcome, Everything Free\", open to soldiers regardless of race or creed. The Order's account puts the funds raised by the Knights and allied drives at nearly thirty million dollars; the figure is the Order's own.",
+      "text": "After the United States enters the war, the Order opens recreation and welfare centers — the \"K of C Huts\" — for troops in training camps and at the front, under the motto \"Everybody Welcome, Everything Free\", open to soldiers regardless of race or creed. The Order's own 1920 account itemizes the money: its independent drives raised over fourteen million dollars, its quota in the joint United War Work Campaign of 1918 was thirty million (negotiated down from a proposed fifty at the Secretary of War's insistence), and its officers handled war moneys \"amounting to nearly forty million dollars\" in all — figures that are the Order's own accounting, not an independent audit.",
       "sources": [
         "kofc-history-timeline",
         "egan-kennedy-peace-war"
@@ -456,12 +458,14 @@
     },
     {
       "year": 1921,
-      "dateVerified": false,
-      "dateNote": "August 1921. The commonly given day, 11 August, was not verified against a primary source; the Order's own account gives only 'an August afternoon in 1921'.",
+      "date": "1921-08-11",
+      "dateVerified": true,
+      "dateNote": "11 August 1921: the Birmingham Age-Herald of 12 August carries the banner \"Father Coyle killed by minister\" and reports that he \"died last night\".",
       "place": "Birmingham, Alabama, USA",
       "title": "Fr. James E. Coyle, Knights chaplain, is shot dead by a Klansman",
-      "text": "Per the Order's historical account, Methodist minister and Klansman Edwin R. Stephenson shoots Fr. James E. Coyle — a charter member of Mobile Council 666 and chaplain of Birmingham Council 635 — on his rectory porch, an hour after Coyle officiated at the wedding of Stephenson's daughter to a Puerto Rican Catholic. The Klan paid for the defense, which included the future Supreme Court justice Hugo Black, and the jury acquitted. The account and its characterizations are the Order's, in its 2017 institutional history of the Klan conflict.",
+      "text": "Methodist minister Edwin R. Stephenson shoots Fr. James E. Coyle — dean of north Alabama, per the next morning's front page; a charter member of Mobile Council 666 and chaplain of Birmingham Council 635, per the Order — an hour after Coyle officiated at the wedding of Stephenson's daughter to a Puerto Rican Catholic. That Stephenson was a Klansman, that the Klan paid for the defense — which included the future Supreme Court justice Hugo Black — and that the jury acquitted are details recorded per the Order's 2017 institutional history of the conflict.",
       "sources": [
+        "birmingham-age-herald-1921-08-12",
         "columbia-knights-vs-klan-2017"
       ],
       "threads": [
@@ -471,8 +475,8 @@
     {
       "year": 1922,
       "date": "1922-11-07",
-      "dateVerified": false,
-      "dateNote": "7 November 1922, the general-election ballot. The date rests on the Education Next centennial account plus search-level summaries of the Oregon Encyclopedia, whose own page was unreachable in this session — effectively single-tertiary; flagged.",
+      "dateVerified": true,
+      "dateNote": "7 November 1922: the date is stated in the Supreme Court's own opinion in Pierce v. Society of Sisters — \"the Compulsory Education Act adopted November 7, 1922... under the initiative provision of her Constitution by the voters of Oregon\".",
       "place": "Oregon, USA",
       "title": "Oregon passes the Klan-backed Compulsory Education Act",
       "text": "Oregon voters approve an initiative eliminating private schooling for children aged eight to sixteen — a measure campaigned for by the Ku Klux Klan and allied groups, motivated, in the Education Next centennial account's words, by anti-immigrant and anti-Catholic views. The Klan-supported candidate Walter M. Pierce wins the governorship on the same ballot. The law, set to take effect in 1926, would have closed the Catholic schools.",
@@ -564,9 +568,10 @@
       "dateVerified": true,
       "place": "Washington, D.C., USA",
       "title": "Pierce v. Society of Sisters strikes down the Oregon law",
-      "text": "The Supreme Court unanimously holds Oregon's Compulsory Education Act unconstitutional: \"the child is not the mere creature of the State\". The Order's own account states that it helped finance the Sisters' litigation after Supreme Knight Flaherty called on members to rally in defense of the Catholic schools; the funding claim is the Order's, with no independent academic corroboration reached in this dataset.",
+      "text": "The Supreme Court unanimously holds Oregon's Compulsory Education Act unconstitutional: \"the child is not the mere creature of the State\". The Knights contributed to the challenge — the constitutional scholar Paula Abrams records that the Order offered a minimum of ten thousand dollars, within a litigation supervised by the National Catholic Welfare Council, which pledged one hundred thousand — after Supreme Knight Flaherty called on members to rally in defense of the Catholic schools, per the Order's account.",
       "sources": [
         "pierce-lii",
+        "abrams-constcomm-2003",
         "columbia-knights-vs-klan-2017",
         "educationnext-pierce"
       ],
@@ -581,8 +586,16 @@
       "place": "Noblesville, Indiana, USA",
       "title": "The Klan begins to collapse — from its own scandals, the historians say",
       "text": "At the height of its power the second Klan starts to destroy itself: a Hamilton County jury convicts D. C. Stephenson, Grand Dragon of Indiana, of the second-degree murder of Madge Oberholtzer, and the documents he releases from prison in 1926–27 — published by the Indianapolis Times, whose anti-Klan crusade wins the 1928 Pulitzer Prize — bring indictments against Governor Ed Jackson and other Klan-allied officials. Historians' membership estimates trace the fall: from a peak of several million in the mid-1920s (estimates range from about two to six million) to roughly 350,000 by 1927 in Linda Gordon's account and about 30,000 by 1930 in Shawn Lay's. Scholars attribute the collapse to leadership corruption — the Stephenson case above all — feuding, scandal, press exposure and fading novelty, not to physical resistance by its opponents: reviewing the one popular book that argues otherwise, the Indiana-Klan historian Allen Safianow judged that the 1924 South Bend confrontation \"made little contribution to the Indiana Klan's precipitous decline\". This event stands here as context: the Knights of Columbus fought the Klan chiefly in courtrooms and in print, and no scholarly account reached by this dataset credits the Order — or street confrontation — with the Klan's fall.",
-      "sources": ["linder-stephenson-trial", "ihb-indianapolis-times-marker", "lay-nge-kkk-20th", "waxman-time-2017-kkk", "safianow-imh-tucker-review"],
-      "threads": ["anti-catholic-conflict"]
+      "sources": [
+        "linder-stephenson-trial",
+        "ihb-indianapolis-times-marker",
+        "lay-nge-kkk-20th",
+        "waxman-time-2017-kkk",
+        "safianow-imh-tucker-review"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
     },
     {
       "year": 1926,
@@ -646,12 +659,13 @@
     {
       "year": 1951,
       "dateVerified": false,
-      "dateNote": "April 1951; the Order's Columbia magazine gives only the month. Some council pages give 22 April 1951; that day was not verified.",
+      "dateNote": "April 1951; the day, 22 April, appears in the Order's own account as republished in the Congressional Record (2002) and in diocesan press (1999) — but every source pinning the day traces to the Order's narrative, and no independent period attestation has been located.",
       "place": "New Haven, Connecticut, USA",
       "title": "The board adds \"under God\" to the Pledge at its own assemblies",
       "text": "The Order's Board of Directors votes to insert the words \"under God\" into the Pledge of Allegiance as recited at all Fourth Degree assemblies — the first step of a campaign that would reach the national Pledge three years later.",
       "sources": [
-        "columbia-under-god"
+        "columbia-under-god",
+        "crec-2002-under-god"
       ],
       "threads": [
         "public-action"
@@ -751,10 +765,11 @@
       "date": "2000-05-21",
       "dateVerified": true,
       "place": "Rome, Italy",
-      "title": "Canonization of the Mexican martyrs; the Order's claim of six members",
-      "text": "John Paul II canonizes Cristóbal Magallanes and twenty-four companions, martyrs of the Mexican persecution. The Order states that six of the priests among them were Knights of Columbus; the canonization homily itself does not mention the Order, so the attribution is recorded as the Order's own.",
+      "title": "Canonization of the Mexican martyrs; six reported as Knights",
+      "text": "John Paul II canonizes Cristóbal Magallanes and twenty-four companions, martyrs of the Mexican persecution. Six of the priests among them are reported as members of the Order — Luis Bátiz Sáinz, José María Robles Hurtado, Mateo Correa Magallanes, Miguel de la Mora, Rodrigo Aguilar Alemán and Pedro de Jesús Maldonado — a list repeated by Catholic press independent of the Order, though it likely derives from the Order's research, and council-level detail remains the Order's own. The canonization homily itself does not mention the Order.",
       "sources": [
         "vatican-canonizations-2000",
+        "aciprensa-martires-kofc",
         "kofc-history-timeline"
       ],
       "threads": [
@@ -764,12 +779,13 @@
     {
       "year": 2008,
       "date": "2008-03-15",
-      "dateVerified": false,
-      "dateNote": "The Father McGivney Guild dates the decree of heroic virtue to 15 March 2008; the Order's own timeline says 16 March 2008. The Guild's date is used here and the conflict recorded; no Holy See bulletin was reached to adjudicate.",
+      "dateVerified": true,
+      "dateNote": "15 March 2008, per the Holy See Press Office bulletin of that day (B0186), which records the papal audience authorizing the decree. The Order's own timeline says 16 March — Palm Sunday, whose bulletins contain no such decree — so the bulletin refutes it.",
       "place": "Rome, Italy",
       "title": "McGivney declared Venerable",
       "text": "Benedict XVI approves the decree recognizing the heroic virtue of Fr. Michael J. McGivney, who thereby becomes Venerable — the first of the two steps to beatification.",
       "sources": [
+        "vatican-bulletin-2008-03-15",
         "mcgivney-guild-venerable",
         "kofc-history-timeline"
       ],
@@ -1119,7 +1135,10 @@
     "subtitle": "The fabricated oath, the courts that condemned it, the Klan decade, and how the Klan actually ended — documented from the acts",
     "summary": "A separate page for this project's second focus: the campaign of fabricated evidence against the Knights of Columbus, the congressional and judicial acts that condemned it, the second Ku Klux Klan's decade, the Order's answers — and the historians' account of how the Klan actually ended.",
     "intro": "This dossier collects, in one place, the documented conflict between the Knights of Columbus and organized anti-Catholicism in the United States. Its rule is the project's rule: cite the acts — the Congressional Record, the court decisions, the period newspapers, the archival scans — and attribute every characterization to whoever makes it. The fabricated \"bogus oath\" appears here as what the record shows it to be: a forgery condemned by a committee of the U.S. House of Representatives and punished by the courts.",
-    "sources": ["crecb-1913-02-15", "kofc-criminal-libel-pamphlet-1914"],
+    "sources": [
+      "crecb-1913-02-15",
+      "kofc-criminal-libel-pamphlet-1914"
+    ],
     "note": "Every event below is drawn from the main chronology — these are the rows tagged with the anti-Catholic-conflict lane, unchanged. A ? flag marks dates not yet verified against a primary source.",
     "sections": [
       {
@@ -1129,15 +1148,23 @@
           "In the autumn of 1912, during the contest for Pennsylvania's 7th congressional district, a text purporting to be the Knights' Fourth Degree oath — pledging its takers to hang, burn and strangle heretics — was circulated against the Democratic candidate, Eugene C. Bonniwell, a Fourth Degree Knight. Where it came from has never been established: Time traced it in 1928 to Chester County, Pennsylvania, and in 1960 to a tract mailed from Aurora, Missouri, home of the anti-Catholic weekly The Menace, which sold copies in bulk. Its authorship is unknown to every source this project has reached.",
           "Surviving broadsides of the forgery carry the heading \"Taken from the Congressional Record of February 15\" — one is preserved in the Digital Library of Georgia. The heading is the forgery's neatest trick: the Congressional Record of that date is the document that condemned it."
         ],
-        "sources": ["crecb-1913-02-15", "dlg-broadside-1913", "time-fake-oath-1928", "time-fake-oath-1960"]
+        "sources": [
+          "crecb-1913-02-15",
+          "dlg-broadside-1913",
+          "time-fake-oath-1928",
+          "time-fake-oath-1960"
+        ]
       },
       {
         "id": "congress",
         "heading": "Congress examines it and finds it spurious (1913)",
         "paragraphs": [
-          "Bonniwell contested the election, and the House Committee on Elections No. 1 examined the campaign against him. Its report, printed in the Congressional Record of 15 February 1913, reproduces the oath as an exhibit, records that the winner himself — Republican Thomas S. Butler — repudiated it, and, as reprinted with page citations in later notices, declares that the committee \"cannot condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus Oath\"."
+          "Bonniwell contested the election, and the House Committee on Elections No. 1 examined the campaign against him. Its report, printed in the Congressional Record of 15 February 1913, reproduces the oath as an exhibit, records that the winner himself — Republican Thomas S. Butler — repudiated it, and declares, in the words on page 3221 of the Record itself: \"This committee can not condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus oath, a copy of which is appended to the paper.\""
         ],
-        "sources": ["crecb-1913-02-15", "independent-1928-reward"]
+        "sources": [
+          "crecb-1913-02-15",
+          "independent-1928-reward"
+        ]
       },
       {
         "id": "the-courts",
@@ -1145,16 +1172,28 @@
         "paragraphs": [
           "Prosecutions followed in four jurisdictions. In St. John's, Newfoundland, Charles A. Swift admitted the criminal-libel charge and apologized (February 1913). In Philadelphia, the printer Charles Megonegal pleaded guilty and his distributor nolo contendere, before a court where the future Supreme Court justice Owen J. Roberts assisted the prosecution; the record, as the Order's pamphlet reprints it, states that \"evidence was introduced that the 'fake oath' was utterly false\" (January 1914). In Waterville, Minnesota, a jury whose foreman was the town's Methodist minister convicted two publishers, and the Order's Supreme Secretary placed the real Fourth Degree obligation into a court record for the first time (August 1914). And in 1917 the Oklahoma Court of Criminal Appeals sustained Roy Crane's conviction, holding that libel of an identifiable class is actionable, and that proving the oath false did not require disclosing the true obligation."
         ],
-        "sources": ["kofc-criminal-libel-pamphlet-1914", "catholic-bulletin-1913-03-01", "manchester-democrat-1914-08-19", "crane-v-state-1917"]
+        "sources": [
+          "kofc-criminal-libel-pamphlet-1914",
+          "catholic-bulletin-1913-03-01",
+          "manchester-democrat-1914-08-19",
+          "crane-v-state-1917"
+        ]
       },
       {
         "id": "the-klan-decade",
         "heading": "The second Klan takes it up (1915–1928)",
         "paragraphs": [
           "The Ku Klux Klan refounded at Stone Mountain in 1915 was anti-Catholic as well as white-supremacist — the characterization is the scholarship's, and the Klan's own press bears it out: the Fiery Cross, its Indianapolis weekly, engaged the Knights and the \"alleged\" oath across its 1922–1924 run. The decade's violence reached the Order directly in Birmingham, where Fr. James E. Coyle, chaplain of the local council, was shot dead by a Klansman minister in 1921 — the Klan paid for the defense, and the jury acquitted, per the Order's account.",
-          "The Klan's largest political project against Catholic institutions was Oregon's 1922 Compulsory Education Act, which would have closed the Catholic schools. It died in Pierce v. Society of Sisters (1925), the Supreme Court holding unanimously that \"the child is not the mere creature of the State\". The Order states that it helped finance the litigation; the claim is the Order's own."
+          "The Klan's largest political project against Catholic institutions was Oregon's 1922 Compulsory Education Act, which would have closed the Catholic schools. It died in Pierce v. Society of Sisters (1925), the Supreme Court holding unanimously that \"the child is not the mere creature of the State\". The Knights contributed money to the challenge — a minimum of ten thousand dollars, the constitutional scholar Paula Abrams records, within a litigation supervised by the National Catholic Welfare Council, which pledged one hundred thousand."
         ],
-        "sources": ["jenkins-wph-kkk-pa", "fiery-cross-hoosier", "columbia-knights-vs-klan-2017", "educationnext-pierce", "pierce-lii"]
+        "sources": [
+          "jenkins-wph-kkk-pa",
+          "fiery-cross-hoosier",
+          "columbia-knights-vs-klan-2017",
+          "educationnext-pierce",
+          "pierce-lii",
+          "abrams-constcomm-2003"
+        ]
       },
       {
         "id": "the-answer",
@@ -1162,7 +1201,15 @@
         "paragraphs": [
           "The Order fought with institutions rather than fists. The Commission on Religious Prejudices (1914–1917), chaired by Patrick Henry Callahan, was created \"to study the causes, investigate conditions and suggest remedies\" for the prejudice campaign; its published reports survive in archival scans. In 1924 the Order's Historical Commission published the Racial Contributions series — W. E. B. Du Bois's The Gift of Black Folk, George Cohen's The Jews in the Making of America, Frederick Franklin Schrader's The Germans in the Making of America — setting a founder of the NAACP against the Klan's version of American history. And in the 1928 campaign season it bought newspaper space for a standing $25,000 reward for anyone who could prove the oath genuine, reprinting the House committee's finding with its page citations."
         ],
-        "sources": ["encyclopedia-callahan", "commission-reports-1915-1917", "dubois-gift-1924", "cohen-jews-1924", "schrader-germans-1924", "independent-1928-reward", "time-fake-oath-1928"]
+        "sources": [
+          "encyclopedia-callahan",
+          "commission-reports-1915-1917",
+          "dubois-gift-1924",
+          "cohen-jews-1924",
+          "schrader-germans-1924",
+          "independent-1928-reward",
+          "time-fake-oath-1928"
+        ]
       },
       {
         "id": "who-fought-in-the-street",
@@ -1170,7 +1217,11 @@
         "paragraphs": [
           "Catholics did meet the Klan physically, twice in ways the record preserves: at Carnegie, Pennsylvania, in August 1923, where town residents — largely Irish Catholics — fought a ten-thousand-strong Klan march until a Klansman was shot dead; and at South Bend in May 1924, where University of Notre Dame students routed a rally called by D. C. Stephenson. Neither was the Knights of Columbus as an organization, and this project keeps the distinction: the verified accounts of both episodes contain no organized Knights involvement."
         ],
-        "sources": ["jenkins-wph-kkk-pa", "triblive-carnegie", "nd-magazine-klan-1924"]
+        "sources": [
+          "jenkins-wph-kkk-pa",
+          "triblive-carnegie",
+          "nd-magazine-klan-1924"
+        ]
       },
       {
         "id": "how-the-klan-ended",
@@ -1178,7 +1229,13 @@
         "paragraphs": [
           "The Klan collapsed from the inside. In November 1925 D. C. Stephenson, Grand Dragon of Indiana, was convicted of the second-degree murder of Madge Oberholtzer; the documents he released from prison brought indictments against Governor Ed Jackson and other Klan-allied officials, and the Indianapolis Times won the 1928 Pulitzer Prize for the crusade that published them. Historians put the membership fall at several million (estimates range from about two to six million) down to roughly 350,000 by 1927 and about 30,000 by 1930, and attribute it to leadership corruption, feuding, scandal, press exposure and fading novelty. Reviewing the one popular book that credits the South Bend confrontation, the Indiana-Klan historian Allen Safianow judged it \"made little contribution to the Indiana Klan's precipitous decline\". No scholarly account reached by this project credits the Knights of Columbus — or street confrontation — with the Klan's fall; what the Order demonstrably won was the documentary war about itself."
         ],
-        "sources": ["linder-stephenson-trial", "ihb-indianapolis-times-marker", "lay-nge-kkk-20th", "waxman-time-2017-kkk", "safianow-imh-tucker-review"]
+        "sources": [
+          "linder-stephenson-trial",
+          "ihb-indianapolis-times-marker",
+          "lay-nge-kkk-20th",
+          "waxman-time-2017-kkk",
+          "safianow-imh-tucker-review"
+        ]
       },
       {
         "id": "resurfacings",
@@ -1186,7 +1243,11 @@
         "paragraphs": [
           "The oath flooded Al Smith's 1928 campaign — Time reported that a million copies had recently been handed about — and returned against John F. Kennedy in 1960, when Time again printed its history and the genuine obligation. In December 2018, senators questioned a judicial nominee over whether the Knights' positions were \"extreme\" and whether he would resign his membership; Catholic press coverage invoked the older history, and the framing dispute is recorded in this dataset as an attributed disagreement, not a finding."
         ],
-        "sources": ["time-fake-oath-1928", "time-fake-oath-1960", "cwr-buescher-2018"]
+        "sources": [
+          "time-fake-oath-1928",
+          "time-fake-oath-1960",
+          "cwr-buescher-2018"
+        ]
       }
     ]
   },
@@ -1606,6 +1667,62 @@
       "publisher": "Digital Library of Georgia",
       "publisherNote": "A surviving copy of the fabricated broadside itself — the artifact, preserved in an archive; cited as evidence of circulation, never for its claims.",
       "type": "archive"
+    },
+    {
+      "id": "mjc-1882-02-08",
+      "title": "Morning Journal and Courier (New Haven), 8 February 1882, p. 2 — \"Lodge and Society\"",
+      "url": "https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Contemporaneous report of the first general meeting of the Knights of Columbus, held Monday 6 February 1882 at St. Mary’s.",
+      "type": "news"
+    },
+    {
+      "id": "waterbury-democrat-1890-08-14",
+      "title": "Waterbury Evening Democrat, 14 August 1890, p. 4 — \"Death of Father M’Givney\"",
+      "url": "https://www.loc.gov/resource/sn94053256/1890-08-14/ed-1/?sp=4",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Same-day obituary; records the illness from influenza, the January pneumonia and the decline.",
+      "type": "news"
+    },
+    {
+      "id": "birmingham-age-herald-1921-08-12",
+      "title": "The Birmingham Age-Herald, 12 August 1921, p. 1 — \"Father Coyle killed by minister\"",
+      "url": "https://www.loc.gov/resource/sn85038485/1921-08-12/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Next morning’s front page; establishes the death on the night of 11 August.",
+      "type": "news"
+    },
+    {
+      "id": "abrams-constcomm-2003",
+      "title": "The Little Red Schoolhouse: Pierce, State Monopoly of Education and the Politics of Intolerance",
+      "url": "https://core.ac.uk/download/76352068.pdf",
+      "publisher": "Paula Abrams, Constitutional Commentary 20 (2003)",
+      "publisherNote": "Peer-reviewed scholarship on the Oregon school case; source for the funding scale — the Knights’ ten-thousand-dollar minimum within the NCWC-supervised litigation.",
+      "type": "academic"
+    },
+    {
+      "id": "vatican-bulletin-2008-03-15",
+      "title": "Promulgazione di Decreti della Congregazione delle Cause dei Santi, 15.03.2008 (B0186)",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2008/03/15/0186/00430.html",
+      "publisher": "Holy See Press Office",
+      "publisherNote": "The bulletin recording the papal audience that authorized the decree of heroic virtues for Michael McGivney. Requires a browser User-Agent to fetch.",
+      "type": "official"
+    },
+    {
+      "id": "crec-2002-under-god",
+      "title": "How the Words \"Under God\" Came to Be Added to the Pledge of Allegiance to the Flag — Congressional Record, Extensions of Remarks, E1899 (2002)",
+      "url": "https://www.govinfo.gov/link/crec/148/E/1899",
+      "publisher": "U.S. Government Publishing Office, govinfo.gov",
+      "publisherNote": "The Order’s own account of the 22 April 1951 board resolution, as inserted into the Record in 2002 — a republication of the Order’s narrative, not independent attestation.",
+      "type": "archive"
+    },
+    {
+      "id": "aciprensa-martires-kofc",
+      "title": "Así inspiran los santos mártires mexicanos el apostolado de los Caballeros de Colón",
+      "url": "https://www.aciprensa.com/noticias/88697/asi-inspiran-los-santos-martires-mexicanos-el-apostolado-de-los-caballeros-de-colon",
+      "publisher": "ACI Prensa (EWTN)",
+      "publisherNote": "Catholic press independent of the Order naming the six canonized priests reported as Knights; the list likely derives from the Order’s research. Requires a browser User-Agent to fetch.",
+      "type": "news"
     }
   ]
 }
