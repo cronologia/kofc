@@ -55,6 +55,22 @@ const OG_LOCALE = { en: 'en_US', es: 'es_ES', pt: 'pt_BR' };
 // and hreflang stay complete.
 const ROUTES = [''];
 
+// The Knights-and-the-Klan dossier page is driven by the optional
+// `conflictPage` key on the dataset (ADR-0001 idiom; olavo's philosophers.js
+// precedent). Routes are derived at MODULE scope — the drift test re-renders
+// the sitemap from the exported ROUTES, so the routes must exist for
+// importers too, not only when main() runs.
+// Guarded require: test fixtures copy build.js alone into a scratch dir, and
+// a scratch whose dataset never declares `conflictPage` must keep working. A
+// dataset that DOES declare the page while the module is missing fails loudly
+// below — a silently absent feature is the family's least favourite failure.
+let conflictMod = null;
+try { conflictMod = require('./conflict.js'); } catch (e) { if (e.code !== 'MODULE_NOT_FOUND') throw e; }
+const CONFLICT_PAGE = (conflictMod && fs.existsSync(DATA_FILE))
+  ? conflictMod.getConflictPage(JSON.parse(fs.readFileSync(DATA_FILE, 'utf8')))
+  : null;
+if (CONFLICT_PAGE) ROUTES.push(...conflictMod.conflictRoutes(CONFLICT_PAGE));
+
 // Data fields whose string values are prose to translate. Proper names, URLs,
 // ids, dates and numbers are NOT here. This is the GENERAL rule; subtrees where
 // it misfires (`references`, and whatever a repo adds) carry their own narrower
@@ -66,6 +82,9 @@ const TRANSLATABLE_KEYS = new Set([
   // Lane bases are prose and RENDER on the page (renderSwimlanes publishes each
   // lane's grounding), so they are translated like any other visible prose.
   'basis', 'intro',
+  // The dossier page's narrative sections: an array of prose strings inherits
+  // its parent key, so every paragraph is translated.
+  'paragraphs',
   // `dateNote` is prose ABOUT the dating — which sources disagree, what a date
   // still rests on. It was carried in every dataset in the family and rendered
   // NOWHERE, so roughly eighty caveats were written, and invisible to every
@@ -85,6 +104,8 @@ const UI = {
     lastUpdated: 'Last updated:', language: 'Language',
     chronologyIntro: 'Key events in chronological order. A <span class="flag">?</span> flag marks\n      dates not yet verified against a primary source.',
     thYear: 'Year', thDate: 'Date', thPlace: 'Place', thEvent: 'Event',
+    cdRead: 'Read the full dossier →', cdBack: '← Back to the chronology',
+    cdTimelineHeading: 'The conflict, event by event', cdNav: 'The Klan dossier',
     spineHeading: 'Events over time', spineNav: 'Over time',
     spineIntro: 'How the record is distributed across time. Bar height is the number of recorded events in that decade; the hatched part of a bar is events whose date is not yet verified against a primary source. Select a decade to jump to it in the chronology below.',
     spineBreakLabel: (n, from_, to) => `${n} decades with no recorded events (${from_}–${to})`,
@@ -164,6 +185,8 @@ const UI = {
     lastUpdated: 'Última actualización:', language: 'Idioma',
     chronologyIntro: 'Acontecimientos clave en orden cronológico. Una marca <span class="flag">?</span> indica\n      fechas aún no verificadas con una fuente primaria.',
     thYear: 'Año', thDate: 'Fecha', thPlace: 'Lugar', thEvent: 'Acontecimiento',
+    cdRead: 'Leer el dosier completo →', cdBack: '← Volver a la cronología',
+    cdTimelineHeading: 'El conflicto, acontecimiento a acontecimiento', cdNav: 'El dosier del Klan',
     spineHeading: 'Acontecimientos a lo largo del tiempo', spineNav: 'En el tiempo',
     spineIntro: 'Cómo se distribuye el registro en el tiempo. La altura de cada barra es el número de acontecimientos registrados en esa década; la parte rayada corresponde a acontecimientos cuya fecha aún no se ha verificado con una fuente primaria. Seleccione una década para ir a ella en la cronología.',
     spineBreakLabel: (n, from_, to) => `${n} décadas sin acontecimientos registrados (${from_}–${to})`,
@@ -233,6 +256,8 @@ const UI = {
     lastUpdated: 'Última atualização:', language: 'Idioma',
     chronologyIntro: 'Principais acontecimentos em ordem cronológica. Uma marca <span class="flag">?</span> indica\n      datas ainda não verificadas com uma fonte primária.',
     thYear: 'Ano', thDate: 'Data', thPlace: 'Local', thEvent: 'Acontecimento',
+    cdRead: 'Ler o dossiê completo →', cdBack: '← Voltar à cronologia',
+    cdTimelineHeading: 'O conflito, acontecimento a acontecimento', cdNav: 'O dossiê do Klan',
     spineHeading: 'Acontecimentos ao longo do tempo', spineNav: 'No tempo',
     spineIntro: 'Como o registo se distribui no tempo. A altura de cada barra é o número de acontecimentos registados nessa década; a parte tracejada corresponde a acontecimentos cuja data ainda não foi verificada com uma fonte primária. Selecione uma década para saltar para ela na cronologia.',
     spineBreakLabel: (n, from_, to) => `${n} décadas sem acontecimentos registados (${from_}–${to})`,
@@ -2160,6 +2185,13 @@ function renderPage(data, archives, opts = {}) {
   const placesMapHtml = renderPlacesMap(placesMap, events, opts.places, opts.world, ui);
   const tierMapHtml = renderTierMap(tierMap, refNumById, ui);
   const swimlanesHtml = renderSwimlanes(threads, events, refNumById, ui);
+  // The dossier teaser rides the localized data, so its strings translate like
+  // any other prose; the section exists only when the dataset declares the page.
+  if (data.conflictPage && !conflictMod) {
+    throw new Error('data declares conflictPage but conflict.js is not beside build.js');
+  }
+  const conflictIndexHtml = conflictMod ? conflictMod.renderConflictIndexSection(
+    conflictMod.getConflictPage(data), ui, { esc }) : '';
 
   const sortedEvents = [...events].sort((a, b) => a.year - b.year || String(a.date || '').localeCompare(String(b.date || '')));
 
@@ -2217,7 +2249,7 @@ ${seoHead(meta, base, route, lang)}
   <nav class="site-nav">
     <div class="wrap">
       <a href="#about">${esc(ui.about)}</a>
-      <a href="#chronology">${esc(ui.chronology)}</a>${approvalLadderHtml ? `\n      <a href="#approval-ladder">${esc((data.approvalLadder && data.approvalLadder.navLabel) || ui.ladderHeading)}</a>` : ''}${chronologySpineHtml ? `\n      <a href="#chronology-spine">${esc((chronologySpine && chronologySpine.navLabel) || ui.spineNav)}</a>` : ''}${swimlanesHtml ? `\n      <a href="#threads">${esc((threads && threads.navLabel) || ui.swNav)}</a>` : ''}${placesMapHtml ? `\n      <a href="#places-map">${esc((placesMap && placesMap.navLabel) || ui.mapNav)}</a>` : ''}${tierMapHtml ? `\n      <a href="#map">${esc((tierMap && tierMap.navLabel) || ui.tierMapHeading)}</a>` : ''}${lineageHtml ? `\n      <a href="#lineage">${esc(lineage.navLabel || 'Genealogy')}</a>` : ''}${branchTimelineHtml ? `\n      <a href="#branch-timeline">${esc(branchTimeline.navLabel || 'Divisions')}</a>` : ''}${numbersChartHtml ? `\n      <a href="#numbers-chart">${esc(numbersChart.navLabel || 'Numbers')}</a>` : ''}
+      <a href="#chronology">${esc(ui.chronology)}</a>${approvalLadderHtml ? `\n      <a href="#approval-ladder">${esc((data.approvalLadder && data.approvalLadder.navLabel) || ui.ladderHeading)}</a>` : ''}${chronologySpineHtml ? `\n      <a href="#chronology-spine">${esc((chronologySpine && chronologySpine.navLabel) || ui.spineNav)}</a>` : ''}${swimlanesHtml ? `\n      <a href="#threads">${esc((threads && threads.navLabel) || ui.swNav)}</a>` : ''}${conflictIndexHtml ? `\n      <a href="#conflict-dossier">${esc(ui.cdNav)}</a>` : ''}${placesMapHtml ? `\n      <a href="#places-map">${esc((placesMap && placesMap.navLabel) || ui.mapNav)}</a>` : ''}${tierMapHtml ? `\n      <a href="#map">${esc((tierMap && tierMap.navLabel) || ui.tierMapHeading)}</a>` : ''}${lineageHtml ? `\n      <a href="#lineage">${esc(lineage.navLabel || 'Genealogy')}</a>` : ''}${branchTimelineHtml ? `\n      <a href="#branch-timeline">${esc(branchTimeline.navLabel || 'Divisions')}</a>` : ''}${numbersChartHtml ? `\n      <a href="#numbers-chart">${esc(numbersChart.navLabel || 'Numbers')}</a>` : ''}
       <a href="#figures">${esc(ui.figures)}</a>
       <a href="#organizations">${esc(ui.organizations)}</a>
       ${disambigCards ? `<a href="#disambiguation">${esc(ui.disambiguation)}</a>` : ''}
@@ -2249,7 +2281,7 @@ ${eventRows}
       </div>
     </section>
 
-${swimlanesHtml}${placesMapHtml}${tierMapHtml}${lineageHtml}${branchTimelineHtml}${numbersChartHtml}    <section id="figures">
+${swimlanesHtml}${conflictIndexHtml}${placesMapHtml}${tierMapHtml}${lineageHtml}${branchTimelineHtml}${numbersChartHtml}    <section id="figures">
       <h2>${esc(ui.figuresHeading)}</h2>
       <div class="party-grid">
 ${figures.map((f) => renderFigureCard(f, refNumById)).join('\n')}
@@ -2303,6 +2335,23 @@ function main() {
     const dir = path.join(OUT_DIR, lang);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), renderPage(localized, archives, { lang, base, route: '', places, world }));
+    const localizedConflict = conflictMod ? conflictMod.getConflictPage(localized) : null;
+    if (localizedConflict) {
+      const cdir = path.join(dir, localizedConflict.slug);
+      fs.mkdirSync(cdir, { recursive: true });
+      fs.writeFileSync(path.join(cdir, 'index.html'), conflictMod.renderConflictPage({
+        page: localizedConflict,
+        events: localized.events,
+        references: localized.references,
+        archives,
+        meta: localized.meta,
+        ui: { ...(UI[lang] || UI.en), disclaimer: disclaimerFor(loadDictMeta(lang), UI[lang] || UI.en) },
+        lang,
+        base,
+        analytics: ANALYTICS,
+        helpers: { esc, renderText, renderCites, seoHead, renderEventRow, renderReference },
+      }));
+    }
   }
   fs.writeFileSync(path.join(OUT_DIR, 'index.html'), renderRootStub(base));
   fs.writeFileSync(path.join(OUT_DIR, 'sitemap.xml'), renderSitemap(base, ROUTES));

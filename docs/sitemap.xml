@@ -21,4 +21,25 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://cronologia.github.io/kofc/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cronologia.github.io/kofc/en/"/>
   </url>
+  <url>
+    <loc>https://cronologia.github.io/kofc/en/kkk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cronologia.github.io/kofc/en/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cronologia.github.io/kofc/es/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cronologia.github.io/kofc/pt/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cronologia.github.io/kofc/en/kkk/"/>
+  </url>
+  <url>
+    <loc>https://cronologia.github.io/kofc/es/kkk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cronologia.github.io/kofc/en/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cronologia.github.io/kofc/es/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cronologia.github.io/kofc/pt/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cronologia.github.io/kofc/en/kkk/"/>
+  </url>
+  <url>
+    <loc>https://cronologia.github.io/kofc/pt/kkk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cronologia.github.io/kofc/en/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cronologia.github.io/kofc/es/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cronologia.github.io/kofc/pt/kkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cronologia.github.io/kofc/en/kkk/"/>
+  </url>
 </urlset>

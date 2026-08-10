@@ -439,6 +439,40 @@ if (d.disambiguation !== undefined) {
   });
 }
 
+// ---- conflict dossier page (this repo's own optional renderer) -------------
+// The `conflictPage` key drives the separate Knights-and-the-Klan page
+// (conflict.js; ADR-0001 idiom — absent key changes nothing). The page derives
+// its timeline from the events tagged with `lane`, so the lane must be a
+// declared thread; every section cites; every source resolves.
+if (d.conflictPage !== undefined) {
+  const cp = d.conflictPage;
+  const at = 'conflictPage';
+  const kebab = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+  const isPlainObj = (v) => v !== null && typeof v === 'object' && !Array.isArray(v);
+  if (!isPlainObj(cp)) err(`${at} must be an object`);
+  else {
+    for (const k of ['slug', 'lane', 'title', 'subtitle', 'intro', 'summary', 'note']) {
+      if (!isStr(cp[k]) || !cp[k].trim()) err(`${at}.${k} missing or empty`);
+    }
+    if (isStr(cp.slug) && !kebab.test(cp.slug)) err(`${at}.slug must be kebab-case, got "${cp.slug}"`);
+    const laneIds = new Set(((d.meta && d.meta.threads && d.meta.threads.lanes) || []).map((l) => l.id));
+    if (isStr(cp.lane) && !laneIds.has(cp.lane)) {
+      err(`${at}.lane: "${cp.lane}" is not a declared lane in meta.threads — the page's timeline would be empty`);
+    }
+    checkSources(at, cp.sources, true);
+    if (!isArr(cp.sections) || cp.sections.length === 0) err(`${at}.sections must be a non-empty array`);
+    else cp.sections.forEach((s, i) => {
+      const sAt = `${at}.sections[${i}]`;
+      if (!isStr(s.id) || !kebab.test(s.id)) err(`${sAt}.id must be kebab-case`);
+      if (!isStr(s.heading) || !s.heading.trim()) err(`${sAt}.heading missing`);
+      if (!isArr(s.paragraphs) || s.paragraphs.length === 0 || !s.paragraphs.every(isStr)) {
+        err(`${sAt}.paragraphs must be a non-empty array of strings`);
+      }
+      checkSources(sAt, s.sources, true);
+    });
+  }
+}
+
 // ---- glossary cross-links -------------------------------------------------
 // Every [[term-id]] marker (see build.js) must resolve to a known glossary
 // term. The known ids are read from the vendored, pinned list in

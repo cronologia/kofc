@@ -93,11 +93,17 @@ storyline, not scattered.
   not pinned to primary sources yet.
 - Supreme Knight day-level term dates rest on Wikipedia's consolidated list.
 
-## Current state (2026-08, bootstrap)
+## Current state (2026-08, bootstrap + Klan-collapse wave)
 
-- 51 events, 10 figures, 8 organizations, 47 references; threads declared
+- 52 events, 10 figures, 8 organizations, 52 references; threads declared
   (4 lanes: institution, anti-catholic-conflict, church-relations,
   public-action); no approvalLadder (not an apparition subject).
+- A dedicated dossier page, "The Knights and the Klan", at /{lang}/kkk/
+  (conflict.js + the optional `conflictPage` data key): eight narrative
+  sections citing the same references, plus a timeline derived from the
+  anti-catholic-conflict lane. The collapse section states the historians'
+  verdict — the Klan fell to its own scandals (Stephenson, 1925), and no
+  scholarly account reached credits the Order or street confrontation.
 - Three locales (en / es / pt); es and pt dictionaries are exact-key,
   hand-authored by the assistant, not human-reviewed
   (`_meta.humanReviewed: false`; the page banner says so).
