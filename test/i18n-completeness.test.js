@@ -239,6 +239,12 @@ const PUBLISHER_BRACKET_OK = new Set([
   'jenkins-wph-kkk-pa',
   // "(Pittsburgh Tribune-Review)" names TribLive's parent paper.
   'triblive-carnegie',
+  // "(UMKC School of Law)" names the site's host institution.
+  'linder-stephenson-trial',
+  // "(in.gov)" names the publishing domain of the Indiana Historical Bureau.
+  'ihb-indianapolis-times-marker',
+  // "(IU ScholarWorks)" names the journal's hosting repository.
+  'safianow-imh-tucker-review',
 ]);
 // <<< ADOPT
 
