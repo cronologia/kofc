@@ -86,6 +86,12 @@
       "timestamp": "20260605231019",
       "checkedAt": "2026-08-10"
     },
+    "https://www.columbiamagazine.org/knights/k-of-c-history/2026/07/united-under-god/": {
+      "refId": "columbia-under-god",
+      "archiveUrl": "https://web.archive.org/web/20260810080558/https://www.columbiamagazine.org/knights/k-of-c-history/2026/07/united-under-god/",
+      "timestamp": "20260810080558",
+      "checkedAt": "2026-08-10"
+    },
     "https://www.columbiettes.com/about-us/history.aspx": {
       "refId": "columbiettes-history",
       "archiveUrl": "https://web.archive.org/web/20251219142508/https://www.columbiettes.com/about-us/history.aspx",
@@ -132,6 +138,12 @@
       "refId": "kofc-history-timeline",
       "archiveUrl": "https://web.archive.org/web/20260115173533/https://www.kofc.org/en/who-we-are/our-history/index.html",
       "timestamp": "20260115173533",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.kofc.org/en/who-we-are/our-leadership/index.html": {
+      "refId": "kofc-leadership-stats",
+      "archiveUrl": "https://web.archive.org/web/20260810080446/https://www.kofc.org/",
+      "timestamp": "20260810080446",
       "checkedAt": "2026-08-10"
     },
     "https://www.kofpc.org/history.php": {
