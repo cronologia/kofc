@@ -1,0 +1,102 @@
+name: Build & deploy
+
+# Validates the data, rebuilds the site, checks that committed docs/ is in sync,
+# and (on the default branch) deploys docs/ to GitHub Pages.
+#
+# The `build` job (validate + test + build + drift check) always runs and gates
+# every push/PR. The `deploy` job runs on the default branch.
+#
+# There used to be a second switch here: deploy also required the repo variable
+# ENABLE_PAGES to be "true", so a freshly bootstrapped repo would not show a red
+# default branch before Pages was turned on. It cost more than it saved. With
+# Pages enabled but the variable unset, every run reported SUCCESS while the
+# deploy job and the artifact upload were both skipped -- a green check over a
+# site serving 404. Eight repos in the 2026-08-05 wave sat in exactly that state
+# at once, and nothing on the run page said so.
+#
+# A gate that silently does nothing and calls it success is the failure mode this
+# project refuses everywhere else. If Pages is not enabled, actions/deploy-pages
+# fails loudly and names the problem, which is the informative answer.
+#
+# To go live: Settings -> Pages -> Build and deployment -> Source: GitHub Actions.
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate data
+        run: node scripts/validate-data.js
+
+      - name: Run tests
+        run: node --test
+
+      - name: Build
+        run: node build.js
+
+      - name: Check docs/ is in sync with the build
+        run: |
+          if ! git diff --quiet -- docs/; then
+            echo "::error::docs/ is out of date — run 'node build.js' and commit the result."
+            git diff --stat -- docs/
+            exit 1
+          fi
+          echo "docs/ is in sync."
+
+      # Vendored copies drift silently, and the drift is invisible from inside
+      # the repo: headerSafe() was added to the template in cronologia/core#12
+      # and reached exactly one repo, leaving two repos' link-health runs
+      # reporting every reference as inconclusive for months while looking
+      # healthy (cronologia/core#21, #33). The vendored skills have the same
+      # shape — the eight repos bootstrapped 2026-08-05 carried none at all, so
+      # ADR-0007's rules never reached the apparition repos they were written
+      # for (cronologia/core#85).
+      - name: Check out cronologia/core (for the drift checks)
+        uses: actions/checkout@v4
+        with:
+          repository: cronologia/core
+          path: .core-template
+
+      - name: Template drift check
+        run: python3 .core-template/tools/template-drift.py --scripts scripts --label ${{ github.event.repository.name }}
+
+      - name: Vendored skill drift check
+        run: python3 .core-template/tools/sync-skills.py . --check
+
+      - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

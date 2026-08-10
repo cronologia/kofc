@@ -1,0 +1,186 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-10",
+  "snapshots": {
+    "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
+      "refId": "oessh-site",
+      "archiveUrl": "https://web.archive.org/web/20260716082302/https://www.oessh.va/content/ordineequestresantosepolcro/en.html",
+      "timestamp": "20260716082302",
+      "checkedAt": "2026-08-10"
+    },
+    "https://blackpast.org/african-american-history/knights-peter-claver-1909/": {
+      "refId": "blackpast-peter-claver",
+      "archiveUrl": "https://web.archive.org/web/20251013090557/https://blackpast.org/african-american-history/knights-peter-claver-1909/",
+      "timestamp": "20251013090557",
+      "checkedAt": "2026-08-10"
+    },
+    "https://connecticuthistory.org/knights-of-columbus-chartered-today-in-history/": {
+      "refId": "cthistory-charter",
+      "archiveUrl": "https://web.archive.org/web/20260705091123/https://connecticuthistory.org/knights-of-columbus-chartered-today-in-history/",
+      "timestamp": "20260705091123",
+      "checkedAt": "2026-08-10"
+    },
+    "https://en.wikipedia.org/wiki/Supreme_Knight_of_the_Knights_of_Columbus": {
+      "refId": "wikipedia-supreme-knights",
+      "archiveUrl": "https://web.archive.org/web/20260131052215/https://en.wikipedia.org/wiki/Supreme_Knight_of_the_Knights_of_Columbus",
+      "timestamp": "20260131052215",
+      "checkedAt": "2026-08-10"
+    },
+    "https://journals.psu.edu/wph/article/download/3998/3815/3843": {
+      "refId": "jenkins-wph-kkk-pa",
+      "archiveUrl": "https://web.archive.org/web/20230509033016/https://journals.psu.edu/wph/article/download/3998/3815/3843",
+      "timestamp": "20230509033016",
+      "checkedAt": "2026-08-10"
+    },
+    "https://magazine.nd.edu/stories/the-clash-with-the-klan/": {
+      "refId": "nd-magazine-klan-1924",
+      "archiveUrl": "https://web.archive.org/web/20240627150052/https://magazine.nd.edu/stories/the-clash-with-the-klan/",
+      "timestamp": "20240627150052",
+      "checkedAt": "2026-08-10"
+    },
+    "https://okcca.net/cases/1917/OK-CR-175/": {
+      "refId": "crane-v-state-1917",
+      "archiveUrl": "https://web.archive.org/web/20241211152140/http://www.okcca.net/cases/1917/OK-CR-175/",
+      "timestamp": "20241211152140",
+      "checkedAt": "2026-08-10"
+    },
+    "https://time.com/archive/6807404/prejudice-the-fake-oath/": {
+      "refId": "time-fake-oath-1960",
+      "archiveUrl": "https://web.archive.org/web/20250913225224/https://time.com/archive/6807404/prejudice-the-fake-oath/",
+      "timestamp": "20250913225224",
+      "checkedAt": "2026-08-10"
+    },
+    "https://time.com/archive/6861345/religion-great-fake-oath/": {
+      "refId": "time-fake-oath-1928",
+      "archiveUrl": "https://web.archive.org/web/20250913225546/https://time.com/archive/6861345/religion-great-fake-oath/",
+      "timestamp": "20250913225546",
+      "checkedAt": "2026-08-10"
+    },
+    "https://triblive.com/local/spartans-at-thermopylae-centennial-marks-carnegie-residents-repelling-kkk-throng/": {
+      "refId": "triblive-carnegie",
+      "archiveUrl": "https://web.archive.org/web/20250725093452/https://triblive.com/local/spartans-at-thermopylae-centennial-marks-carnegie-residents-repelling-kkk-throng/",
+      "timestamp": "20250725093452",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.britannica.com/topic/Knights-of-Columbus": {
+      "refId": "britannica-kofc",
+      "archiveUrl": "https://web.archive.org/web/20260112073714/https://www.britannica.com/topic/Knights-of-Columbus",
+      "timestamp": "20260112073714",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.britannica.com/topic/Knights-of-Labor": {
+      "refId": "britannica-knights-of-labor",
+      "archiveUrl": "https://web.archive.org/web/20260313233414/https://www.britannica.com/topic/Knights-of-Labor",
+      "timestamp": "20260313233414",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.catholicworldreport.com/2018/12/21/senators-quiz-nominee-about-membership-of-extreme-knights-of-columbus/": {
+      "refId": "cwr-buescher-2018",
+      "archiveUrl": "https://web.archive.org/web/20260516104609/https://www.catholicworldreport.com/2018/12/21/senators-quiz-nominee-about-membership-of-extreme-knights-of-columbus/",
+      "timestamp": "20260516104609",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.columbiamagazine.org/knights/k-of-c-history/2017/11/knights-vs-the-klan/": {
+      "refId": "columbia-knights-vs-klan-2017",
+      "archiveUrl": "https://web.archive.org/web/20260605231019/https://www.columbiamagazine.org/knights/k-of-c-history/2017/11/knights-vs-the-klan/",
+      "timestamp": "20260605231019",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.columbiettes.com/about-us/history.aspx": {
+      "refId": "columbiettes-history",
+      "archiveUrl": "https://web.archive.org/web/20251219142508/https://www.columbiettes.com/about-us/history.aspx",
+      "timestamp": "20251219142508",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.educationnext.org/centennial-of-pierce-v-society-of-sisters-landmark-decision-school-choice/": {
+      "refId": "educationnext-pierce",
+      "archiveUrl": "https://web.archive.org/web/20260518210939/https://www.educationnext.org/centennial-of-pierce-v-society-of-sisters-landmark-decision-school-choice/",
+      "timestamp": "20260518210939",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/callahan-patrick-henry": {
+      "refId": "encyclopedia-callahan",
+      "archiveUrl": "https://web.archive.org/web/20260307214432/https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/callahan-patrick-henry",
+      "timestamp": "20260307214432",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/daughters-isabella": {
+      "refId": "encyclopedia-daughters-isabella",
+      "archiveUrl": "https://web.archive.org/web/20251007065217/https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/daughters-isabella",
+      "timestamp": "20251007065217",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.ewtnnews.com/world/us/knights-of-columbus-report-rise-in-membership-charitable-donations-at-annual-convention?redirectedfrom=cna": {
+      "refId": "cna-2024-convention",
+      "archiveUrl": "https://web.archive.org/web/20260330054440/https://www.ewtnnews.com/world/us/knights-of-columbus-report-rise-in-membership-charitable-donations-at-annual-convention?redirectedfrom=cna",
+      "timestamp": "20260330054440",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.fathermcgivney.org/his-life/": {
+      "refId": "mcgivney-guild-life",
+      "archiveUrl": "https://web.archive.org/web/20260806172135/https://www.fathermcgivney.org/his-life/",
+      "timestamp": "20260806172135",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.fathermcgivney.org/sainthood-cause/venerable-servant-of-god/": {
+      "refId": "mcgivney-guild-venerable",
+      "archiveUrl": "https://web.archive.org/web/20260618144535/https://www.fathermcgivney.org/sainthood-cause/venerable-servant-of-god/",
+      "timestamp": "20260618144535",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.kofc.org/en/who-we-are/our-history/index.html": {
+      "refId": "kofc-history-timeline",
+      "archiveUrl": "https://web.archive.org/web/20260115173533/https://www.kofc.org/en/who-we-are/our-history/index.html",
+      "timestamp": "20260115173533",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.kofpc.org/history.php": {
+      "refId": "kofpc-history",
+      "archiveUrl": "https://web.archive.org/web/20260802012425/https://www.kofpc.org/history.php",
+      "timestamp": "20260802012425",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.law.cornell.edu/supremecourt/text/268/510": {
+      "refId": "pierce-lii",
+      "archiveUrl": "https://web.archive.org/web/20260716102907/https://www.law.cornell.edu/supremecourt/text/268/510",
+      "timestamp": "20260716102907",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice": {
+      "refId": "ncregister-peter-claver",
+      "archiveUrl": "https://web.archive.org/web/20240914010754/https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice",
+      "timestamp": "20240914010754",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.newadvent.org/cathen/08670c.htm": {
+      "refId": "cathen-1913-kofc",
+      "archiveUrl": "https://web.archive.org/web/20260512202112/https://www.newadvent.org/cathen/08670c.htm",
+      "timestamp": "20260512202112",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.orderofmalta.int/history/": {
+      "refId": "order-of-malta-history",
+      "archiveUrl": "https://web.archive.org/web/20260729204632/https://www.orderofmalta.int/history/",
+      "timestamp": "20260729204632",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/content/john-paul-ii/en/homilies/2000/documents/hf_jp-ii_hom_20000521_canonizations.html": {
+      "refId": "vatican-canonizations-2000",
+      "archiveUrl": "https://web.archive.org/web/20260606172241/https://www.vatican.va/content/john-paul-ii/en/homilies/2000/documents/hf_jp-ii_hom_20000521_canonizations.html",
+      "timestamp": "20260606172241",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html": {
+      "refId": "vatican-iniquis-afflictisque",
+      "archiveUrl": "https://web.archive.org/web/20260601040440/https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html",
+      "timestamp": "20260601040440",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vaticannews.va/en/church/news/2020-10/beatification-michael-mcgivney-knights-columbus-carl-anderson.html": {
+      "refId": "vatican-news-beatification",
+      "archiveUrl": "https://web.archive.org/web/20251007175847/https://www.vaticannews.va/en/church/news/2020-10/beatification-michael-mcgivney-knights-columbus-carl-anderson.html",
+      "timestamp": "20251007175847",
+      "checkedAt": "2026-08-10"
+    }
+  }
+}

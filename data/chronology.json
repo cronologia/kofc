@@ -1,0 +1,1483 @@
+{
+  "meta": {
+    "title": "Knights of Columbus — Chronology",
+    "subtitle": "Chronology of the Knights of Columbus — the founding, the growth of the Order, its dealings with the Holy See, and the anti-Catholic campaigns against it in the United States, including the fabricated \"bogus oath\" and the Ku Klux Klan",
+    "description": "An open, source-referenced chronology of the Knights of Columbus, the Catholic fraternal benefit society founded in New Haven in 1882 — its institutional history, its relations with the popes, its public campaigns, and the documented conflict between the Order and organized anti-Catholicism in the United States, from the fabricated Fourth Degree oath of 1912 to the second Ku Klux Klan and its echoes.",
+    "language": "en",
+    "siteUrl": "https://cronologia.github.io/kofc/",
+    "lastUpdated": "2026-08-10",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). Institutional events lean on the Order's own centennial timeline and are attributed as the Order's account where the Order is crediting itself; figures for membership, insurance and charitable giving are time-stamped, because they change every year. The anti-Catholic-conflict thread rests on period primary documents where they were reached — the Congressional Record, contemporary newspapers, the Supreme Court's opinion, archival scans of the books themselves — and on named scholarship elsewhere. The fabricated \"bogus oath\" is documented here as a fabrication: that finding belongs to the House of Representatives (1913) and the courts, and the dataset cites the acts, not the slur. Day-level dates that rest on a single tertiary source are flagged with a ? mark. Contested characterizations are attributed to their authors; where sources disagree — the February 1882 founding day, the founding rationale of the Knights of Peter Claver — the dataset records the disagreement instead of resolving it. Corrections against primary sources are welcome.",
+    "vizChips": [
+      {
+        "href": "#threads",
+        "label": "🧵 Threads"
+      },
+      {
+        "href": "#chronology",
+        "label": "📜 Chronology"
+      }
+    ],
+    "threads": {
+      "note": "These lanes are an editorial reading of this chronology, not a neutral index. They group events by the kind of act — building the Order, defending it against organized anti-Catholicism, dealing with the Church's hierarchy, and acting in public — and deliberately not by whose account one follows. The anti-Catholic-conflict lane exists because the campaign against the Order is documented in primary sources on both sides and is a declared focus of this project; giving it a lane is a statement that it is part of the story, not a claim about any present-day actor. Most events belong to more than one lane. What was considered and left out, and why, is recorded in the project's issue tracker.",
+      "lanes": [
+        {
+          "id": "institution",
+          "label": "The Order as an institution",
+          "basis": "Founding, charters, councils, degrees, membership rules and leadership — the sequence the Order's own records and Kauffman's centennial history 'Faith and Fraternalism' (1982) both treat as the institutional spine."
+        },
+        {
+          "id": "anti-catholic-conflict",
+          "label": "Anti-Catholic campaigns and the Order's response",
+          "basis": "The documented conflict between the Order and organized anti-Catholicism in the United States: the fabricated 'bogus oath', the criminal-libel prosecutions, the Order's Commission on Religious Prejudices, the second Ku Klux Klan's campaigns, the Oregon School Law fight, and the oath's later resurfacings. Grounded in the House election-case record of 1913, the Commission's own published reports, and the scholarship on the second Klan."
+        },
+        {
+          "id": "church-relations",
+          "label": "Relations with the hierarchy and the Holy See",
+          "basis": "Dated acts of popes, bishops and dicasteries concerning the Order — audiences, the encyclical Iniquis Afflictisque (1926), the canonization path of the founder — each cited to the act itself where reachable."
+        },
+        {
+          "id": "public-action",
+          "label": "Public campaigns and service programs",
+          "basis": "The Order's outward-facing programs as dated public acts — the WWI huts, the 'under God' Pledge campaign, the Ultrasound Initiative, refugee and persecuted-Christians relief — sourced to the Order's record and attributed as such where the Order is the only witness."
+        }
+      ]
+    }
+  },
+  "facts": [
+    {
+      "label": "What it is",
+      "value": "A Catholic fraternal benefit society of lay men, founded in New Haven, Connecticut, in 1881–82 — a mutual-aid and insurance organization built around the principles of charity, unity and fraternity, with patriotism added with the Fourth Degree in 1900.",
+      "sources": [
+        "kofc-history-timeline",
+        "cathen-1913-kofc",
+        "britannica-kofc"
+      ]
+    },
+    {
+      "label": "Founder",
+      "value": "Blessed Michael J. McGivney (1852–1890), a 29-year-old curate of St. Mary's Church, New Haven, son of Irish immigrants; he died at 38 and was beatified on 31 October 2020.",
+      "sources": [
+        "mcgivney-guild-life",
+        "cna-beatification"
+      ]
+    },
+    {
+      "label": "First meeting",
+      "value": "2 October 1881, in the basement of St. Mary's Church, New Haven — a group of laymen convened by Fr. McGivney to plan a Catholic mutual-benefit society.",
+      "sources": [
+        "kofc-history-timeline",
+        "cthistory-charter"
+      ]
+    },
+    {
+      "label": "Charter",
+      "value": "29 March 1882, by act of the Connecticut General Assembly — the date the Order marks as Founder's Day.",
+      "sources": [
+        "cthistory-charter",
+        "kofc-history-timeline"
+      ]
+    },
+    {
+      "label": "Original purpose",
+      "value": "The 1913 Catholic Encyclopedia states it: to develop a practical Catholicity among members, to promote Catholic education and charity, and through its insurance department to furnish at least temporary financial aid to the families of deceased members.",
+      "sources": [
+        "cathen-1913-kofc"
+      ]
+    },
+    {
+      "label": "Governance",
+      "value": "A Supreme Knight and Supreme Council/Board of Directors, headquartered in New Haven, Connecticut; local units are councils. Fourteen men have held the office of Supreme Knight since 1882.",
+      "sources": [
+        "britannica-kofc",
+        "kofc-leadership-stats"
+      ]
+    },
+    {
+      "label": "Scale (2025, per the Order)",
+      "value": "About 2.2 million members in some 17,000 councils; $124 billion of life insurance in force; the Order reports over $200 million donated and 48 million volunteer hours in 2025. Figures are the Order's own and change yearly.",
+      "sources": [
+        "kofc-leadership-stats"
+      ]
+    },
+    {
+      "label": "Scale (2024, reported)",
+      "value": "At the 142nd Supreme Convention (August 2024) the Order reported 2.1 million members, 92,000 of them new that year, a record $190 million in charitable giving and 47 million volunteer hours.",
+      "sources": [
+        "cna-2024-convention"
+      ]
+    },
+    {
+      "label": "Expansion",
+      "value": "Canada from 1897 (Montreal), Mexico and the Philippines from 1905, Panama and Cuba from 1909, Poland from 2006, South Korea from 2015 — the Order's own council-charter record.",
+      "sources": [
+        "kofc-history-timeline"
+      ]
+    },
+    {
+      "label": "The \"bogus oath\"",
+      "value": "A fabricated Fourth Degree oath circulated from 1912 to defame the Order as a murderous conspiracy. A committee of the U.S. House of Representatives found it spurious in 1913, and publishers who circulated it were convicted of criminal libel; the Klan of the 1920s circulated it anyway, and it resurfaced in the presidential campaigns of 1928 and 1960.",
+      "sources": [
+        "kofc-history-timeline",
+        "crecb-1913-02-15"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 1881,
+      "date": "1881-10-02",
+      "dateVerified": true,
+      "place": "New Haven, Connecticut, USA",
+      "title": "Fr. McGivney convenes the first meeting at St. Mary's",
+      "text": "Fr. Michael J. McGivney, the 29-year-old curate of St. Mary's Church, gathers a group of laymen in the parish basement to plan a Catholic mutual-benefit society — a lay-led organization to unite Catholic men and provide for the families of deceased members, at a time when, as the Order's own history and independent accounts both note, Catholic men were joining secret fraternal societies the Church disapproved of, and industrial work left widows and orphans without support.",
+      "sources": [
+        "kofc-history-timeline",
+        "cthistory-charter",
+        "britannica-kofc"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1882,
+      "dateVerified": false,
+      "dateNote": "February 1882; the day is disputed — the 1913 Catholic Encyclopedia says the society was founded on 2 February 1882, while the Order's own timeline says the first members chose Columbus as patron on 6 February 1882. Both agree on the surrounding dates (2 October 1881; 29 March 1882).",
+      "place": "New Haven, Connecticut, USA",
+      "title": "The name \"Knights of Columbus\" is adopted",
+      "text": "The founding members choose Christopher Columbus as patron — a name that, in the reading the Order itself gives, claimed both Catholic identity and American patriotism at once, against the nativist argument that Catholics could not be full citizens.",
+      "sources": [
+        "cathen-1913-kofc",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882-03-29",
+      "dateVerified": true,
+      "place": "Hartford, Connecticut, USA",
+      "title": "The Connecticut legislature charters the Order",
+      "text": "The Knights of Columbus are incorporated by act of the Connecticut General Assembly. The Order marks the date as Founder's Day.",
+      "sources": [
+        "cthistory-charter",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882-05-15",
+      "dateVerified": true,
+      "place": "New Haven, Connecticut, USA",
+      "title": "San Salvador Council No. 1 is instituted",
+      "text": "The first subordinate council of the Order is instituted at New Haven, per the 1913 Catholic Encyclopedia's account of the founding.",
+      "sources": [
+        "cathen-1913-kofc"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "1890-08-14",
+      "dateVerified": true,
+      "place": "Thomaston, Connecticut, USA",
+      "title": "Fr. McGivney dies at 38",
+      "text": "Michael J. McGivney, by then pastor of St. Thomas Church in Thomaston, dies two days after his 38th birthday. Accounts widely attribute the death to pneumonia in the influenza pandemic of 1889–90; this dataset has not verified the cause against a primary document.",
+      "sources": [
+        "kofc-history-timeline",
+        "cna-beatification",
+        "mcgivney-guild-life"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1892,
+      "dateVerified": false,
+      "dateNote": "1892; day not established in the sources reached.",
+      "place": "New Haven, Connecticut, USA",
+      "title": "Associate members admitted; 6,000 Knights march for the Columbus quadricentennial",
+      "text": "The Order opens membership to non-insurance \"associate\" members, and six thousand Knights march in New Haven's parade for the four-hundredth anniversary of Columbus's landing — both per the Order's centennial timeline.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1895,
+      "dateVerified": false,
+      "dateNote": "1895; day not established in the sources reached.",
+      "place": "Washington, D.C., USA",
+      "title": "First Vatican acknowledgment: Archbishop Satolli's letter",
+      "text": "The Apostolic Delegate to the United States, Archbishop Francesco Satolli, writes in praise of \"this splendid Catholic organization\" and gives it his blessing — the first acknowledgment of the Order from a representative of the Holy See, per the Order's timeline.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897-11-25",
+      "dateVerified": true,
+      "place": "Montreal, Canada",
+      "title": "First council outside the United States",
+      "text": "Montreal Council 284 is chartered — the Order's first expansion beyond the United States.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1900-02-22",
+      "dateVerified": true,
+      "place": "New York City, USA",
+      "title": "The Fourth Degree is exemplified for the first time",
+      "text": "Eleven hundred Knights receive the new Fourth Degree, whose principle is patriotism, in New York City; 750 more follow in Boston that May. It is the Fourth Degree's ceremonial oath that the fabricators of the \"bogus oath\" would later claim to expose.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1905,
+      "dateVerified": false,
+      "dateNote": "1905; the exact charter days of Manila Council 1000 and Guadalupe Council 1050 were not established in the sources reached.",
+      "place": "Manila, Philippines / Mexico City, Mexico",
+      "title": "First councils in the Philippines and Mexico",
+      "text": "Manila Council 1000 and Mexico City's Guadalupe Council 1050 are chartered, opening the Order's presence in Asia and Latin America, per the Order's timeline.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909-11-07",
+      "dateVerified": true,
+      "place": "Mobile, Alabama, USA",
+      "title": "The Knights of Peter Claver are founded",
+      "text": "Four Josephite priests and three Black Catholic laymen found the Knights of Peter Claver, a separate Black Catholic fraternal order. Why a separate order was needed is told differently by different sources: the National Catholic Register writes that it spread where Knights of Columbus councils had excluded Black men through blackball admission votes, while BlackPast.org attributes the founding to the Josephites' concern about losing Black Catholics to the Elks and Masons, without mentioning the Knights of Columbus; the Claver order's own history page states no rationale. The dataset records the framings without resolving them.",
+      "sources": [
+        "kofpc-history",
+        "ncregister-peter-claver",
+        "blackpast-peter-claver"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1912,
+      "dateVerified": false,
+      "dateNote": "October–November 1912, during the congressional campaign; sources disagree on where the text first appeared — Time in 1928 wrote that it 'was circulated first in Chester County, Pa., about 1912', while Time in 1960 traced it to a tract mailed from Aurora, Missouri. Authorship is unknown per all sources reached.",
+      "place": "Pennsylvania, USA",
+      "title": "A fabricated \"Fourth Degree oath\" enters a congressional election",
+      "text": "During the contest for Pennsylvania's 7th district, a fabricated \"oath\" attributed to Fourth Degree Knights — pledging to hang, burn and strangle heretics — is circulated against the Democratic candidate Eugene C. Bonniwell, himself a Fourth Degree Knight. The winning Republican, Thomas S. Butler, stated for the record that he \"did not believe in its truthfulness\" and called the document spurious. Surviving broadsides of the fabrication are headed \"Taken from the Congressional Record of February 15\" — borrowing the authority of the very record that condemned it.",
+      "sources": [
+        "crecb-1913-02-15",
+        "dlg-broadside-1913",
+        "time-fake-oath-1928"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913-02-15",
+      "dateVerified": true,
+      "place": "Washington, D.C., USA",
+      "title": "A House committee brands the oath \"spurious\"",
+      "text": "In the contested-election case of Bonniwell v. Butler, the House Committee on Elections No. 1 reports to the full House; the report, printed in the Congressional Record of 15 February 1913, reproduces the fabricated oath as an exhibit and Butler's repudiation of it. As quoted with page citations in later reprints, the committee declared it \"cannot condemn too strongly the publication of the false and libelous article... which was the spurious Knights of Columbus Oath\". This is the primary public debunking act, and the document later distributors would misrepresent as congressional endorsement.",
+      "sources": [
+        "crecb-1913-02-15",
+        "kofc-criminal-libel-pamphlet-1914",
+        "independent-1928-reward"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913-02-18",
+      "dateVerified": false,
+      "dateNote": "18 February 1913 per the Order's 1914 pamphlet, which reprints the trial record; the Catholic Bulletin of St. Paul reported the arrest on 15 February. The pamphlet is the Order's own publication, and the account is attributed to it.",
+      "place": "St. John's, Newfoundland",
+      "title": "First criminal-libel trial over the oath: Charles A. Swift",
+      "text": "Charles A. Swift is tried for criminal libel in the Central District Court of St. John's for publishing and circulating the oath. Per the trial record as reprinted by the Order, Swift admitted the charge and expressed \"very deep regret... that I should have been led to believe through false representations that this was the oath of the Knights of Columbus\".",
+      "sources": [
+        "kofc-criminal-libel-pamphlet-1914",
+        "catholic-bulletin-1913-03-01"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913-02-19",
+      "dateVerified": false,
+      "dateNote": "The Catholic Bulletin reports the arrests on 19 February 1913; the Order's pamphlet dates the holding-over to 20 February — likely arrest versus arraignment. Both dates recorded.",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "title": "Philadelphia arrests: the printer and the distributor",
+      "text": "Printer Charles Megonegal and barber Clarence H. Stage are arrested for criminal libel and conspiracy over the bogus oath, on the affidavit of a Knight; a magistrate holds Megonegal in $2,000 bail and Stage in $1,000. At the hearing, per the period Catholic press and the Order's pamphlet, Megonegal said he had bought copies of the oath in bulk from The Menace, the anti-Catholic weekly of Aurora, Missouri, before printing his own.",
+      "sources": [
+        "catholic-bulletin-1913-03-01",
+        "kofc-criminal-libel-pamphlet-1914"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "1914-01-30",
+      "dateVerified": false,
+      "dateNote": "30 January 1914 per the Order's 1914 pamphlet, which reprints the proceedings; attributed to it.",
+      "place": "Philadelphia, Pennsylvania, USA",
+      "title": "Megonegal pleads guilty; \"evidence was introduced that the 'fake oath' was utterly false\"",
+      "text": "Before Judge Robert W. Wilson in Quarter Sessions Court, Megonegal pleads guilty and Stage nolo contendere; the prosecution — the district attorney assisted by Owen J. Roberts, the future Supreme Court justice — asked that sentence be suspended, the defendants pleading good faith in having received the \"oath\" from The Menace. The court record, per the Order's pamphlet, states that evidence was introduced that the fake oath was utterly false.",
+      "sources": [
+        "kofc-criminal-libel-pamphlet-1914"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1914,
+      "dateVerified": false,
+      "dateNote": "Mid-August 1914 — the Manchester Democrat of 19 August reprints the Telegraph-Herald item as 'last week'; the exact trial day was not pinned. The Order's pamphlet records the sentence and the September appeal.",
+      "place": "Waterville, Minnesota, USA",
+      "title": "The Morrisons convicted; the real Fourth Degree obligation enters a court record",
+      "text": "A jury — with the town's Methodist minister as foreman, as the secular local press noted — unanimously convicts A. M. and G. E. Morrison, father and son, of criminal libel for charging that a local editor had subscribed to the alleged oath. Supreme Secretary William J. McGinley placed the real Fourth Degree obligation in evidence, in what the press of the day called the first opportunity the Order had been given to put the real obligation on a court record. Sentence: thirty days each.",
+      "sources": [
+        "manchester-democrat-1914-08-19",
+        "kofc-criminal-libel-pamphlet-1914"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1914,
+      "dateVerified": false,
+      "dateNote": "1914; the year is well attested, but the exact date and venue of the Supreme Council action were not established in the sources reached.",
+      "place": "United States",
+      "title": "The Commission on Religious Prejudices is created",
+      "text": "The Supreme Council institutes a Commission on Religious Prejudices — mandated, per the New Catholic Encyclopedia's account, \"to study the causes, investigate conditions and suggest remedies for the religious prejudice that has been manifest through the press and rostrum\" — and the Kentucky industrialist Patrick Henry Callahan chairs it. The Order's chosen instrument against the slander campaign is study and publicity, not litigation alone.",
+      "sources": [
+        "encyclopedia-callahan",
+        "filson-callahan",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "anti-catholic-conflict",
+        "institution"
+      ]
+    },
+    {
+      "year": 1917,
+      "dateVerified": false,
+      "dateNote": "The Commission's reports were published 1915–1917; the final report is dated 1917.",
+      "place": "United States",
+      "title": "The Commission on Religious Prejudices issues its final report",
+      "text": "The Commission publishes its reports for 1915–1917 and winds up its work. The Order's own timeline claims that between 1914 and 1917 the number of anti-Catholic publications dropped from sixty to fewer than five; the statistic is the Order's and has not been independently verified here.",
+      "sources": [
+        "commission-reports-1915-1917",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1917,
+      "dateVerified": false,
+      "dateNote": "1917; the opinion's exact filing date was not extracted from the court archive.",
+      "place": "Oklahoma, USA",
+      "title": "Crane v. State: an appellate court sustains a bogus-oath conviction",
+      "text": "The Oklahoma Court of Criminal Appeals affirms Roy Crane's criminal-libel conviction for publishing and distributing a book containing the alleged oath, holding that libel of an identifiable class — the Fourth Degree Knights of the county — is actionable without naming every member, and that it sufficed to prove the purported oath false without disclosing the true obligation. Numerous witnesses had testified to the falsity of the charges.",
+      "sources": [
+        "crane-v-state-1917"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1917,
+      "dateVerified": false,
+      "dateNote": "1917; the hut program began after the U.S. declaration of war on 6 April 1917.",
+      "place": "United States and France",
+      "title": "The K of C Huts of the First World War",
+      "text": "After the United States enters the war, the Order opens recreation and welfare centers — the \"K of C Huts\" — for troops in training camps and at the front, under the motto \"Everybody Welcome, Everything Free\", open to soldiers regardless of race or creed. The Order's account puts the funds raised by the Knights and allied drives at nearly thirty million dollars; the figure is the Order's own.",
+      "sources": [
+        "kofc-history-timeline",
+        "egan-kennedy-peace-war"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "1920-08-28",
+      "dateVerified": true,
+      "place": "Rome, Italy",
+      "title": "Benedict XV receives a Knights delegation",
+      "text": "Pope Benedict XV receives 235 Knights in private audience after their unveiling of a Lafayette statue in Metz; at his request the Order later opens five youth recreation centers in Rome (1924–1927), per the Order's timeline.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 1921,
+      "dateVerified": false,
+      "dateNote": "August 1921. The commonly given day, 11 August, was not verified against a primary source; the Order's own account gives only 'an August afternoon in 1921'.",
+      "place": "Birmingham, Alabama, USA",
+      "title": "Fr. James E. Coyle, Knights chaplain, is shot dead by a Klansman",
+      "text": "Per the Order's historical account, Methodist minister and Klansman Edwin R. Stephenson shoots Fr. James E. Coyle — a charter member of Mobile Council 666 and chaplain of Birmingham Council 635 — on his rectory porch, an hour after Coyle officiated at the wedding of Stephenson's daughter to a Puerto Rican Catholic. The Klan paid for the defense, which included the future Supreme Court justice Hugo Black, and the jury acquitted. The account and its characterizations are the Order's, in its 2017 institutional history of the Klan conflict.",
+      "sources": [
+        "columbia-knights-vs-klan-2017"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "1922-11-07",
+      "dateVerified": false,
+      "dateNote": "7 November 1922, the general-election ballot. The date rests on the Education Next centennial account plus search-level summaries of the Oregon Encyclopedia, whose own page was unreachable in this session — effectively single-tertiary; flagged.",
+      "place": "Oregon, USA",
+      "title": "Oregon passes the Klan-backed Compulsory Education Act",
+      "text": "Oregon voters approve an initiative eliminating private schooling for children aged eight to sixteen — a measure campaigned for by the Ku Klux Klan and allied groups, motivated, in the Education Next centennial account's words, by anti-immigrant and anti-Catholic views. The Klan-supported candidate Walter M. Pierce wins the governorship on the same ballot. The law, set to take effect in 1926, would have closed the Catholic schools.",
+      "sources": [
+        "educationnext-pierce"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923-08-25",
+      "dateVerified": true,
+      "place": "Carnegie, Pennsylvania, USA",
+      "title": "Carnegie repels a Klan march — town residents, not the Order",
+      "text": "Some ten thousand Klansmen gather outside Carnegie for an initiation at Imperial Wizard Hiram Evans's behest, then march into the town, where residents — largely Irish Catholics — fight them street by street until Klansman Thomas R. Abbott is shot dead; a local Catholic undertaker was charged and never convicted, and Abbott's death became a Klan recruiting theme. Philip Jenkins's scholarly study treats Carnegie as the signal episode of Pennsylvania's nativist eruption. No reliable source ties the riot to the Knights of Columbus as an organization, and this dataset does not.",
+      "sources": [
+        "jenkins-wph-kkk-pa",
+        "triblive-carnegie"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1923,
+      "dateVerified": false,
+      "dateNote": "The digitized run of the Fiery Cross covers 1922–1924; the items cited include a front-page piece of 2 April 1923 and an item of 8 August 1924. Content verified only via the archive's search index — snippets, not full page reads.",
+      "place": "Indianapolis, Indiana, USA",
+      "title": "The Klan press keeps the oath in circulation",
+      "text": "The Fiery Cross, the Klan's Indianapolis weekly, engages the Knights of Columbus repeatedly across its 1922–1924 run — the digitized archive returns dozens of full-text matches for the Order and the \"alleged\" oath. The Klan paper is cited here as evidence of the Klan-era circulation battle, never for its claims.",
+      "sources": [
+        "fiery-cross-hoosier"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1924,
+      "dateVerified": false,
+      "dateNote": "1924 imprints, all three verified in Internet Archive scans. The Order's account says the Historical Commission was established in 1921 and published the series 'three years later'; no 1923 imprint was found.",
+      "place": "Boston, Massachusetts, USA",
+      "title": "The Racial Contributions series: Du Bois, Cohen, Schrader",
+      "text": "As an answer to Klan-era nativist history-writing, the Order's Historical Commission publishes the \"Racial Contributions to the United States\" series: W. E. B. Du Bois's The Gift of Black Folk: The Negroes in the Making of America, George Cohen's The Jews in the Making of America, and Frederick Franklin Schrader's The Germans in the Making of America — a Catholic fraternal order commissioning a founder of the NAACP, in the middle of the Klan's decade, to write Black Americans into the national story.",
+      "sources": [
+        "dubois-gift-1924",
+        "cohen-jews-1924",
+        "schrader-germans-1924",
+        "columbia-knights-vs-klan-2017"
+      ],
+      "threads": [
+        "anti-catholic-conflict",
+        "public-action"
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924-05-17",
+      "dateVerified": true,
+      "place": "South Bend, Indiana, USA",
+      "title": "Notre Dame students — not the Order — clash with a Klan rally",
+      "text": "Over three days, University of Notre Dame students defy their president's directive to stay on campus, misdirect arriving Klansmen, confiscate robes and fight in the streets after D. C. Stephenson calls a rally in South Bend. The verified account, Notre Dame Magazine's centennial history, contains no Knights of Columbus involvement: the actors were university students, and this chronology preserves the distinction — the event is here because the anti-Catholic campaign was aimed at Catholics generally, not because the Order fought it.",
+      "sources": [
+        "nd-magazine-klan-1924"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1925,
+      "dateVerified": false,
+      "dateNote": "1925; established at that year's Supreme Council meeting, day not established in the sources reached.",
+      "place": "Duluth, Minnesota, USA",
+      "title": "The Columbian Squires are established",
+      "text": "The Supreme Council establishes the Columbian Squires, the Order's own youth organization — sometimes mistaken for a separate society.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925-06-01",
+      "dateVerified": true,
+      "place": "Washington, D.C., USA",
+      "title": "Pierce v. Society of Sisters strikes down the Oregon law",
+      "text": "The Supreme Court unanimously holds Oregon's Compulsory Education Act unconstitutional: \"the child is not the mere creature of the State\". The Order's own account states that it helped finance the Sisters' litigation after Supreme Knight Flaherty called on members to rally in defense of the Catholic schools; the funding claim is the Order's, with no independent academic corroboration reached in this dataset.",
+      "sources": [
+        "pierce-lii",
+        "columbia-knights-vs-klan-2017",
+        "educationnext-pierce"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1926,
+      "dateVerified": false,
+      "dateNote": "1926; the day of the Coolidge meeting was not established in the sources reached.",
+      "place": "Washington, D.C., USA",
+      "title": "The Order takes Mexico's persecution to President Coolidge",
+      "text": "Supreme Knight James A. Flaherty and other officers meet President Calvin Coolidge about the Calles government's persecution of the Catholic Church in Mexico, and the Order launches a one-million-dollar educational campaign on the crisis — advocacy the Order continued through the following decade.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations",
+        "public-action"
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926-11-18",
+      "dateVerified": true,
+      "place": "Rome, Italy",
+      "title": "Pius XI names the Knights in Iniquis Afflictisque",
+      "text": "In his encyclical on the persecution of the Church in Mexico, Pius XI singles out the Knights of Columbus by name: members, he writes, \"have brought great honor upon themselves\", and some were \"taken to prison handcuffed, through the public streets\". The encyclical is the strongest papal text about the Order in this period, and it is cited here from the act itself.",
+      "sources": [
+        "vatican-iniquis-afflictisque"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935-07-08",
+      "dateVerified": true,
+      "place": "Washington, D.C., USA",
+      "title": "Supreme Knight Carmody meets President Roosevelt on Mexico",
+      "text": "Supreme Knight Martin H. Carmody meets President Franklin D. Roosevelt about the continuing persecution of the Church in Mexico, per the Order's timeline.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 1928,
+      "dateVerified": false,
+      "dateNote": "September–October 1928, during the presidential campaign. Time's report is dated 3 September 1928; the surviving reward notice ran 26 October 1928.",
+      "place": "United States",
+      "title": "The oath floods the Al Smith campaign; the Order posts a $25,000 reward",
+      "text": "With the first Catholic major-party presidential nominee on the ballot, Time reports that no less than a million copies of the fabricated oath have recently been handed about, and that the Knights, meeting in Cleveland, promised prosecutions and offered $25,000 to anyone who could prove the oath part of their ritual. A surviving paid notice in a North Carolina newspaper reprints the House committee's 1913 \"spurious\" finding with Congressional Record page citations, and prints the true Fourth Degree pledge — \"I swear to support the Constitution of the United States\".",
+      "sources": [
+        "time-fake-oath-1928",
+        "independent-1928-reward",
+        "columbia-knights-vs-klan-2017"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1951,
+      "dateVerified": false,
+      "dateNote": "April 1951; the Order's Columbia magazine gives only the month. Some council pages give 22 April 1951; that day was not verified.",
+      "place": "New Haven, Connecticut, USA",
+      "title": "The board adds \"under God\" to the Pledge at its own assemblies",
+      "text": "The Order's Board of Directors votes to insert the words \"under God\" into the Pledge of Allegiance as recited at all Fourth Degree assemblies — the first step of a campaign that would reach the national Pledge three years later.",
+      "sources": [
+        "columbia-under-god"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 1952,
+      "dateVerified": false,
+      "dateNote": "August 1952; day of the resolution not established in the sources reached.",
+      "place": "Los Angeles, California, USA",
+      "title": "The Supreme Convention petitions Congress on the Pledge",
+      "text": "The Supreme Convention adopts a resolution urging Congress to add \"under God\" to the national Pledge of Allegiance, sending copies to President Truman, Vice President Barkley and Speaker Rayburn — and renews it the following year to every member of Congress, per Columbia magazine's account.",
+      "sources": [
+        "columbia-under-god"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954-06-14",
+      "dateVerified": true,
+      "place": "Washington, D.C., USA",
+      "title": "\"Under God\" enters the national Pledge",
+      "text": "On Flag Day, President Eisenhower signs the joint resolution adding \"under God\" to the Pledge of Allegiance. The Order regards the change as the outcome of the campaign it began in 1951; the legislative history had many actors, and the credit claim is recorded here as the Order's.",
+      "sources": [
+        "columbia-under-god",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 1960,
+      "dateVerified": false,
+      "dateNote": "August 1960; Time's debunking is dated 22 August 1960. The circulation itself ran through the campaign season.",
+      "place": "United States",
+      "title": "The oath resurfaces against John F. Kennedy",
+      "text": "During the campaign of the second Catholic major-party nominee — himself a Fourth Degree Knight — the fabrication circulates again, through newsletters and sermons; Time recounts its 1912 origin and the 1913 congressional committee's condemnation, notes a clergyman facing criminal-libel charges for refusing to retract it, and prints the genuine obligation. The Order, under Supreme Knight Luke E. Hart, answers again through publications, lawsuits and public statements, per its own account.",
+      "sources": [
+        "time-fake-oath-1960",
+        "columbia-knights-vs-klan-2017"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1964,
+      "dateVerified": false,
+      "dateNote": "1964; McDevitt took office that year, and the admission-policy reform he began is dated by the Order's timeline to his first years in office.",
+      "place": "New Haven, Connecticut, USA",
+      "title": "McDevitt moves against racial exclusion in admissions",
+      "text": "New Supreme Knight John W. McDevitt makes it a first priority to amend admission policies — in the Order's own words, \"to counter charges of racial discrimination\" — and the blackball veto by which individual councils had excluded Black applicants is subsequently eliminated. The Order's phrasing acknowledges the charges; the exclusions themselves are documented in the founding context of the Knights of Peter Claver (1909).",
+      "sources": [
+        "kofc-history-timeline",
+        "ncregister-peter-claver"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 1982,
+      "dateVerified": false,
+      "dateNote": "August 1982; day of the convention address not established in the sources reached.",
+      "place": "Hartford, Connecticut, USA",
+      "title": "The centennial convention",
+      "text": "President Ronald Reagan addresses the Order's 100th Supreme Convention in its centennial year, and John Paul II sends Cardinal Agostino Casaroli as his personal envoy — per the Order's timeline, which places around the same era its Vatican partnership projects, from satellite uplinks (1975) to the restoration of St. Peter's facade (1985).",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution",
+        "church-relations"
+      ]
+    },
+    {
+      "year": 1997,
+      "dateVerified": false,
+      "dateNote": "December 1997; day not established in the sources reached.",
+      "place": "Hartford, Connecticut, USA",
+      "title": "The cause of Fr. McGivney is opened",
+      "text": "The Archdiocese of Hartford opens the cause for the canonization of Fr. Michael J. McGivney, and the Father McGivney Guild is founded to promote it.",
+      "sources": [
+        "kofc-history-timeline",
+        "mcgivney-guild-life"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000-05-21",
+      "dateVerified": true,
+      "place": "Rome, Italy",
+      "title": "Canonization of the Mexican martyrs; the Order's claim of six members",
+      "text": "John Paul II canonizes Cristóbal Magallanes and twenty-four companions, martyrs of the Mexican persecution. The Order states that six of the priests among them were Knights of Columbus; the canonization homily itself does not mention the Order, so the attribution is recorded as the Order's own.",
+      "sources": [
+        "vatican-canonizations-2000",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008-03-15",
+      "dateVerified": false,
+      "dateNote": "The Father McGivney Guild dates the decree of heroic virtue to 15 March 2008; the Order's own timeline says 16 March 2008. The Guild's date is used here and the conflict recorded; no Holy See bulletin was reached to adjudicate.",
+      "place": "Rome, Italy",
+      "title": "McGivney declared Venerable",
+      "text": "Benedict XVI approves the decree recognizing the heroic virtue of Fr. Michael J. McGivney, who thereby becomes Venerable — the first of the two steps to beatification.",
+      "sources": [
+        "mcgivney-guild-venerable",
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009-01-22",
+      "dateVerified": false,
+      "dateNote": "Launch dated by the Order's timeline; day taken from the Order's account of the program's launch at the March for Life season, not independently verified.",
+      "place": "United States",
+      "title": "The Ultrasound Initiative launches",
+      "text": "The Order launches a program funding ultrasound machines for pregnancy centers; by its own count it passed one thousand machines in 2019 and has since passed two thousand. The figures are the Order's.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 2015,
+      "dateVerified": false,
+      "dateNote": "2015; the Seoul charters are dated 18 April 2015 by the Order's timeline.",
+      "place": "New Haven, USA / Seoul, South Korea",
+      "title": "$100 billion in force; first councils in mainland Asia",
+      "text": "The Order surpasses one hundred billion dollars of life insurance in force, and charters its first councils in South Korea — both per its own record.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 2016,
+      "dateVerified": false,
+      "dateNote": "The State Department genocide declaration was made in March 2016; the Order's relief campaigns ran from 2014.",
+      "place": "Washington, D.C., USA / Middle East",
+      "title": "Persecuted-Christians relief and the genocide declaration",
+      "text": "After funding Christian refugee relief from 2014 and a \"Christians at Risk\" campaign from 2015, the Order submits a report on ISIS atrocities against Christians; the U.S. State Department declares ISIS's actions genocide in March 2016. The Order credits its 300-page report with helping secure the declaration — a claim recorded here as the Order's own, not independently corroborated in this dataset.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2018-12-05",
+      "dateVerified": false,
+      "dateNote": "December 2018; the written questions were submitted that month and reported on 21 December 2018. The day given is the reporting cycle's, not verified to the day of submission.",
+      "place": "Washington, D.C., USA",
+      "title": "Senators question a judicial nominee over Knights membership",
+      "text": "Senators Mazie Hirono and Kamala Harris ask judicial nominee Brian Buescher, in written questions, whether the positions of the Knights of Columbus are \"extreme\" and whether he would resign his membership. A spokesman for the Order replies that \"our country's sad history of anti-Catholic bigotry contributed to the founding of the Knights of Columbus\"; the senators' defenders rejected the bigotry framing. The episode is recorded as an attributed dispute — Catholic press cited — not as a finding that the questions were bigoted.",
+      "sources": [
+        "cwr-buescher-2018"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020-10-31",
+      "dateVerified": true,
+      "place": "Hartford, Connecticut, USA",
+      "title": "Fr. McGivney is beatified",
+      "text": "Michael J. McGivney is beatified at the Cathedral of St. Joseph in Hartford; Cardinal Joseph Tobin reads the apostolic letter of Pope Francis. The approved miracle was the 2015 in-utero healing of Michael Schachle; the feast day is set for 13 August. The beatification judges the holiness of the founder's life — it is an act about the man, not about the Order.",
+      "sources": [
+        "cna-beatification",
+        "vatican-news-beatification"
+      ],
+      "threads": [
+        "church-relations"
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2021-03-01",
+      "dateVerified": true,
+      "place": "New Haven, Connecticut, USA",
+      "title": "Patrick E. Kelly becomes the 14th Supreme Knight",
+      "text": "Carl A. Anderson retires after twenty years as Supreme Knight, and Patrick E. Kelly takes office as the fourteenth.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "institution"
+      ]
+    },
+    {
+      "year": 2022,
+      "dateVerified": false,
+      "dateNote": "2022; the fund figures are as reported by the Order in mid-March 2022.",
+      "place": "Ukraine and Poland",
+      "title": "The Ukraine Solidarity Fund",
+      "text": "After Russia's full-scale invasion of Ukraine on 24 February, the Order commits an immediate million dollars and launches a Ukraine Solidarity Fund, reporting more than 6.5 million dollars raised within weeks; Pope Francis receives Supreme Knight Kelly that April. Figures are the Order's.",
+      "sources": [
+        "kofc-history-timeline"
+      ],
+      "threads": [
+        "public-action"
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024-08-06",
+      "dateVerified": true,
+      "place": "Quebec City, Canada",
+      "title": "The 142nd Supreme Convention reports record giving",
+      "text": "At the Quebec City convention the Order reports 2.1 million members — 92,000 new that year — a record 190 million dollars in charitable giving, and 47 million volunteer hours, as reported by Catholic News Agency.",
+      "sources": [
+        "cna-2024-convention"
+      ],
+      "threads": [
+        "institution"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Bl. Michael J. McGivney",
+      "role": "Founder of the Knights of Columbus; curate of St. Mary's, New Haven, at the founding; died at 38 in 1890; declared Venerable in 2008 and beatified on 31 October 2020",
+      "dates": "12 August 1852 – 14 August 1890",
+      "country": "United States",
+      "sources": [
+        "mcgivney-guild-life",
+        "cna-beatification",
+        "britannica-kofc"
+      ]
+    },
+    {
+      "name": "James T. Mullen",
+      "role": "First Supreme Knight (1882–1886); presided at the institution of 22 of the Order's first 38 councils, per the Order's timeline. Exact term days rest on a tertiary list and are flagged",
+      "dates": "1847–1891",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "wikipedia-supreme-knights"
+      ]
+    },
+    {
+      "name": "James A. Flaherty",
+      "role": "Supreme Knight 1909–1927; led the Order through the bogus-oath years, the First World War hut program and the 1926 meeting with President Coolidge on Mexico",
+      "dates": "1853–1937",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "wikipedia-supreme-knights"
+      ]
+    },
+    {
+      "name": "Patrick Henry Callahan",
+      "role": "Louisville industrialist; chairman of the Order's Commission on Religious Prejudices (1914–1917), the Order's organized answer to the anti-Catholic press campaign of the bogus-oath years",
+      "dates": "1866–1940",
+      "country": "United States",
+      "sources": [
+        "encyclopedia-callahan",
+        "filson-callahan"
+      ]
+    },
+    {
+      "name": "Martin H. Carmody",
+      "role": "Supreme Knight 1927–1939; continued the Order's advocacy on the Mexican persecution, meeting President Roosevelt in 1935",
+      "dates": "1872–1950",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "wikipedia-supreme-knights"
+      ]
+    },
+    {
+      "name": "Luke E. Hart",
+      "role": "Supreme Knight 1953–1964; first to reside in New Haven; drove the campaign that put \"under God\" into the national Pledge of Allegiance in 1954",
+      "dates": "1880–1964",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "columbia-under-god"
+      ]
+    },
+    {
+      "name": "John W. McDevitt",
+      "role": "Supreme Knight 1964–1977; reformed admission policies against racial exclusion, eliminating the councils' blackball veto; said in 1966 that the Order must be more than \"a fortress\"",
+      "dates": "1906–1998",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline"
+      ]
+    },
+    {
+      "name": "Virgil C. Dechant",
+      "role": "Supreme Knight 1977–2000, the longest modern tenure; era of close Vatican partnership, from the restoration of St. Peter's facade to the John Paul II Institute",
+      "dates": "1930–2020",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "wikipedia-supreme-knights"
+      ]
+    },
+    {
+      "name": "Carl A. Anderson",
+      "role": "Supreme Knight 2000–2021; led the Order's global expansion (Poland, Ukraine, Korea), the Ultrasound Initiative, the persecuted-Christians campaigns and the beatification of the founder",
+      "dates": "born 1951",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "vatican-news-beatification"
+      ]
+    },
+    {
+      "name": "Patrick E. Kelly",
+      "role": "Fourteenth Supreme Knight, in office since 1 March 2021; led the Ukraine Solidarity Fund and delivered the record-giving report of 2024",
+      "dates": "born 1963",
+      "country": "United States",
+      "sources": [
+        "kofc-history-timeline",
+        "cna-2024-convention"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Knights of Peter Claver",
+      "founded": "1909",
+      "place": "Mobile, Alabama, USA",
+      "relation": "A separate, historically Black Catholic fraternal order founded on 7 November 1909 by four Josephite priests and three Black Catholic laymen. Sources frame its founding differently — the National Catholic Register ties it to Knights of Columbus councils excluding Black men by blackball vote; BlackPast.org ties it to competition from the Elks and Masons and does not mention the Knights of Columbus — and this dataset records both framings.",
+      "sources": [
+        "kofpc-history",
+        "ncregister-peter-claver",
+        "blackpast-peter-claver"
+      ]
+    },
+    {
+      "name": "Columbian Squires",
+      "founded": "1925",
+      "place": "Duluth, Minnesota, USA",
+      "relation": "The Order's own youth organization, established by the Supreme Council in 1925 — part of the Knights of Columbus, not a separate society.",
+      "sources": [
+        "kofc-history-timeline"
+      ]
+    },
+    {
+      "name": "Daughters of Isabella",
+      "founded": "1897",
+      "place": "New Haven, Connecticut, USA",
+      "relation": "A Catholic women's organization begun on 14 May 1897 as Russell Circle, an auxiliary to Knights of Columbus Russell Council No. 65, and chartered independently as the National Circle in 1907. Related by origin; independent in governance.",
+      "sources": [
+        "encyclopedia-daughters-isabella"
+      ]
+    },
+    {
+      "name": "Columbiettes",
+      "founded": "1939",
+      "place": "New York City, USA",
+      "relation": "Women's auxiliaries affiliated with Knights of Columbus councils, first instituted on 2 March 1939 in New York at the suggestion of Msgr. J. Francis McIntyre, per the organization's own history.",
+      "sources": [
+        "columbiettes-history"
+      ]
+    },
+    {
+      "name": "Ku Klux Klan (second Klan)",
+      "founded": "1915",
+      "place": "Stone Mountain, Georgia, USA",
+      "relation": "The nativist secret society refounded in 1915, whose program historians document as anti-Catholic as well as white-supremacist. In the 1920s the Klan's press circulated the fabricated \"bogus oath\" against the Knights of Columbus, and the Klan backed the Oregon school law struck down in Pierce v. Society of Sisters (1925). The characterizations here are those of the cited historians and period documents — including the Klan's own weekly, cited as evidence of its messaging and never for its claims.",
+      "sources": [
+        "jenkins-wph-kkk-pa",
+        "fiery-cross-hoosier",
+        "columbia-knights-vs-klan-2017",
+        "educationnext-pierce"
+      ]
+    },
+    {
+      "name": "Commission on Religious Prejudices",
+      "founded": "1914",
+      "place": "United States",
+      "relation": "The Order's own commission (1914–1917), chaired by Patrick Henry Callahan, created to answer the anti-Catholic press campaign of the bogus-oath years by study and public education rather than litigation alone; its published reports survive in archival scans.",
+      "sources": [
+        "encyclopedia-callahan",
+        "commission-reports-1915-1917"
+      ]
+    },
+    {
+      "name": "Knights of Columbus Historical Commission",
+      "founded": "1921",
+      "place": "United States",
+      "relation": "The Order's commission for historical publication, established in 1921 per the Order's account; publisher of the 1924 Racial Contributions series (Du Bois, Cohen, Schrader) as an answer to Klan-era nativist history-writing.",
+      "sources": [
+        "columbia-knights-vs-klan-2017",
+        "dubois-gift-1924"
+      ]
+    }
+  ],
+  "disambiguation": {
+    "note": "The Knights of Columbus share the word \"Knights\" — and, in hostile propaganda, an imagined secret violence — with organizations they have nothing to do with. These distinctions are documented, not polemical.",
+    "items": [
+      {
+        "title": "Not the Sovereign Military Order of Malta",
+        "text": "The Order of Malta is an eleventh-century religious and chivalric order with sovereign status in international law. The Knights of Columbus are an American fraternal benefit society founded in 1882. The similarity of style (\"Knights\", degrees, regalia) is the whole of the resemblance.",
+        "sources": [
+          "order-of-malta-history",
+          "britannica-kofc"
+        ]
+      },
+      {
+        "title": "Not the Equestrian Order of the Holy Sepulchre",
+        "text": "The Holy Sepulchre order is a papal order of knighthood supporting the Church in the Holy Land. It is unrelated to the Knights of Columbus in origin, governance and purpose.",
+        "sources": [
+          "oessh-site",
+          "britannica-kofc"
+        ]
+      },
+      {
+        "title": "Not the Knights of Labor",
+        "text": "The Knights of Labor were a nineteenth-century American labor federation, founded in 1869. Period sources sometimes confuse the two; they are entirely distinct, though both figured in Catholic debates of the 1880s about societies and secrecy.",
+        "sources": [
+          "britannica-knights-of-labor"
+        ]
+      },
+      {
+        "title": "The \"bogus oath\" is a fabrication, not a leaked document",
+        "text": "The text circulated from 1912 as the Knights' Fourth Degree oath — pledging extermination of Freemasons and heretics — is a fabrication. A committee of the U.S. House of Representatives examined it in a 1913 contested-election case and found it spurious, and publishers who circulated it were convicted of criminal libel. It has nevertheless resurfaced for over a century: the Klan press of the 1920s, the presidential campaigns of 1928 and 1960, and — as an echo of the genre rather than the text — questioning of a judicial nominee's membership in 2018.",
+        "sources": [
+          "crecb-1913-02-15",
+          "time-fake-oath-1928",
+          "time-fake-oath-1960",
+          "cwr-buescher-2018"
+        ]
+      },
+      {
+        "title": "The Columbian Squires are the Order's own youth program",
+        "text": "The Squires, established in 1925, are part of the Knights of Columbus — not a separate or rival organization.",
+        "sources": [
+          "kofc-history-timeline"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "kofc-history-timeline",
+      "title": "The History of the Knights of Columbus",
+      "url": "https://www.kofc.org/en/who-we-are/our-history/index.html",
+      "publisher": "Knights of Columbus",
+      "publisherNote": "The Order's own narrative timeline; self-crediting on contested items, and attributed as such where used alone.",
+      "type": "official"
+    },
+    {
+      "id": "kofc-leadership-stats",
+      "title": "Our Leadership — Knights of Columbus (site statistics block)",
+      "url": "https://www.kofc.org/en/who-we-are/our-leadership/index.html",
+      "publisher": "Knights of Columbus",
+      "publisherNote": "Source for the 2025 membership and insurance figures; the Order's own numbers.",
+      "type": "official"
+    },
+    {
+      "id": "vatican-iniquis-afflictisque",
+      "title": "Iniquis Afflictisque — Encyclical of Pius XI on the persecution of the Church in Mexico",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html",
+      "publisher": "Vatican.va, 18 November 1926",
+      "publisherNote": "Primary papal text naming the Knights of Columbus; cited from the act itself.",
+      "type": "official"
+    },
+    {
+      "id": "vatican-canonizations-2000",
+      "title": "Homily of John Paul II — Canonization of 27 Blesseds, 21 May 2000",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/homilies/2000/documents/hf_jp-ii_hom_20000521_canonizations.html",
+      "publisher": "Vatican.va",
+      "publisherNote": "The canonization act for the Mexican martyrs; it does not itself mention the Knights of Columbus.",
+      "type": "official"
+    },
+    {
+      "id": "britannica-kofc",
+      "title": "Knights of Columbus",
+      "url": "https://www.britannica.com/topic/Knights-of-Columbus",
+      "publisher": "Encyclopaedia Britannica",
+      "publisherNote": "Neutral tertiary overview.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "kauffman-faith-fraternalism",
+      "title": "Faith and Fraternalism: The History of the Knights of Columbus, 1882–1982",
+      "url": "https://archive.org/details/faithfraternalis0000kauf",
+      "publisher": "Christopher J. Kauffman (Harper & Row, 1982); Internet Archive scan",
+      "publisherNote": "The standard scholarly history — commissioned for the Order's centennial, and labeled accordingly.",
+      "type": "academic"
+    },
+    {
+      "id": "egan-kennedy-peace-war",
+      "title": "The Knights of Columbus in Peace and War, vol. 1",
+      "url": "https://archive.org/details/knightsofcolumbu01egan",
+      "publisher": "Maurice Francis Egan & John B. Kennedy (1920); Internet Archive scan",
+      "publisherNote": "Contemporary account of the WWI program, commissioned by the Order.",
+      "type": "book"
+    },
+    {
+      "id": "cathen-1913-kofc",
+      "title": "Knights of Columbus — The Catholic Encyclopedia (1913)",
+      "url": "https://www.newadvent.org/cathen/08670c.htm",
+      "publisher": "Robert Appleton Company (1913), via New Advent",
+      "publisherNote": "Period Catholic reference, sympathetic; source for the founding-era dates and the 1910 membership datum.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "cthistory-charter",
+      "title": "Knights of Columbus Chartered — Today in History: March 29",
+      "url": "https://connecticuthistory.org/knights-of-columbus-chartered-today-in-history/",
+      "publisher": "ConnecticutHistory.org (CT Humanities)",
+      "publisherNote": "State humanities project; independent of the Order.",
+      "type": "web"
+    },
+    {
+      "id": "columbia-under-god",
+      "title": "United 'Under God'",
+      "url": "https://www.columbiamagazine.org/knights/k-of-c-history/2026/07/united-under-god/",
+      "publisher": "Columbia Magazine (Knights of Columbus)",
+      "publisherNote": "The Order's magazine; the detailed timeline of the Pledge campaign, and therefore the Order's own account of it.",
+      "type": "official"
+    },
+    {
+      "id": "mcgivney-guild-venerable",
+      "title": "Venerable Servant of God — Father McGivney Guild",
+      "url": "https://www.fathermcgivney.org/sainthood-cause/venerable-servant-of-god/",
+      "publisher": "Father McGivney Guild (Knights of Columbus)",
+      "publisherNote": "The cause's postulation site; source for the 15 March 2008 decree date.",
+      "type": "official"
+    },
+    {
+      "id": "mcgivney-guild-life",
+      "title": "His Life — Father McGivney Guild",
+      "url": "https://www.fathermcgivney.org/his-life/",
+      "publisher": "Father McGivney Guild (Knights of Columbus)",
+      "publisherNote": "Biography in a hagiographic register; used for life dates.",
+      "type": "official"
+    },
+    {
+      "id": "cna-beatification",
+      "title": "Fr. Michael McGivney, holy priest and Knights of Columbus founder, beatified",
+      "url": "https://www.ewtnnews.com/world/us/fr-michael-mcgivney-holy-priest-and-knights-of-columbus-founder-beatified?redirectedfrom=cna",
+      "publisher": "Catholic News Agency / EWTN News, 31 October 2020",
+      "publisherNote": "Catholic press; beatification details including the Schachle miracle.",
+      "type": "news"
+    },
+    {
+      "id": "vatican-news-beatification",
+      "title": "Beatification of Fr. Michael McGivney, founder of the Knights of Columbus",
+      "url": "https://www.vaticannews.va/en/church/news/2020-10/beatification-michael-mcgivney-knights-columbus-carl-anderson.html",
+      "publisher": "Vatican News, October 2020",
+      "publisherNote": "Vatican media account of the beatification.",
+      "type": "news"
+    },
+    {
+      "id": "cna-2024-convention",
+      "title": "Knights of Columbus report rise in membership, charitable donations at annual convention",
+      "url": "https://www.ewtnnews.com/world/us/knights-of-columbus-report-rise-in-membership-charitable-donations-at-annual-convention?redirectedfrom=cna",
+      "publisher": "Catholic News Agency / EWTN News, August 2024",
+      "publisherNote": "Catholic press report of the Order's own 2024 figures.",
+      "type": "news"
+    },
+    {
+      "id": "kofpc-history",
+      "title": "History — Knights of Peter Claver",
+      "url": "https://www.kofpc.org/history.php",
+      "publisher": "Knights of Peter Claver",
+      "publisherNote": "The Claver order's own history page; states founding facts and no founding rationale.",
+      "type": "official"
+    },
+    {
+      "id": "ncregister-peter-claver",
+      "title": "Knights and Ladies of Peter Claver, Committed to Holiness and Justice",
+      "url": "https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice",
+      "publisher": "National Catholic Register (EWTN)",
+      "publisherNote": "Catholic press, sympathetic to both orders; states that Knights of Columbus councils excluded Black men by blackball vote.",
+      "type": "news"
+    },
+    {
+      "id": "blackpast-peter-claver",
+      "title": "Knights of St. Peter Claver (1909– )",
+      "url": "https://blackpast.org/african-american-history/knights-peter-claver-1909/",
+      "publisher": "BlackPast.org",
+      "publisherNote": "Independent African-American history reference; frames the 1909 founding without reference to Knights of Columbus exclusion.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "encyclopedia-daughters-isabella",
+      "title": "Daughters of Isabella",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/daughters-isabella",
+      "publisher": "Encyclopedia.com (New Catholic Encyclopedia)",
+      "publisherNote": "Reference entry; source for the 1897 Russell Circle origin.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "columbiettes-history",
+      "title": "History — Columbiettes",
+      "url": "https://www.columbiettes.com/about-us/history.aspx",
+      "publisher": "Columbiettes",
+      "publisherNote": "The auxiliary's own history page.",
+      "type": "official"
+    },
+    {
+      "id": "order-of-malta-history",
+      "title": "History — Sovereign Military Order of Malta",
+      "url": "https://www.orderofmalta.int/history/",
+      "publisher": "Sovereign Military Order of Malta",
+      "publisherNote": "The Order of Malta's own history page; used only for disambiguation.",
+      "type": "official"
+    },
+    {
+      "id": "oessh-site",
+      "title": "Equestrian Order of the Holy Sepulchre of Jerusalem",
+      "url": "http://www.oessh.va/content/ordineequestresantosepolcro/en.html",
+      "publisher": "Equestrian Order of the Holy Sepulchre of Jerusalem",
+      "publisherNote": "The order's official site; used only for disambiguation.",
+      "type": "official"
+    },
+    {
+      "id": "britannica-knights-of-labor",
+      "title": "Knights of Labor",
+      "url": "https://www.britannica.com/topic/Knights-of-Labor",
+      "publisher": "Encyclopaedia Britannica",
+      "publisherNote": "Reference entry; used only for disambiguation.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "wikipedia-supreme-knights",
+      "title": "Supreme Knight of the Knights of Columbus",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Knight_of_the_Knights_of_Columbus",
+      "publisher": "Wikipedia",
+      "publisherNote": "Tertiary; the only consolidated list of Supreme Knight term dates reached. Day-level dates resting solely on it are flagged unverified.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "crecb-1913-02-15",
+      "title": "Congressional Record, 62nd Congress, 3rd session, 15 February 1913, vol. 49 pt. 4 — contested-election case of Bonniwell v. Butler (H. Rept. 62-1523)",
+      "url": "https://www.congress.gov/62/crecb/1913/02/15/GPO-CRECB-1913-pt4-v49-3-2.pdf",
+      "publisher": "U.S. Government Publishing Office, via congress.gov",
+      "publisherNote": "The primary record: the committee report reproducing the fabricated oath as an exhibit, Butler's repudiation, and the finding that it was spurious.",
+      "type": "archive"
+    },
+    {
+      "id": "kofc-criminal-libel-pamphlet-1914",
+      "title": "Knights of Columbus vs. Criminal Libel and Malicious Bigotry (1914)",
+      "url": "https://archive.org/details/KnightsOfColumbusVs.CriminalLibelAndMaliciousBigotry1914",
+      "publisher": "Knights of Columbus (1914); Internet Archive scan",
+      "publisherNote": "The Order's own advocacy pamphlet — partisan but documentary: it reprints trial records and the House committee's condemnation with page citations.",
+      "type": "archive"
+    },
+    {
+      "id": "catholic-bulletin-1913-03-01",
+      "title": "The Catholic Bulletin (St. Paul), 1 March 1913, p. 4",
+      "url": "https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Period Catholic diocesan paper, sympathetic to the Order; reports the February 1913 arrests.",
+      "type": "news"
+    },
+    {
+      "id": "manchester-democrat-1914-08-19",
+      "title": "Manchester Democrat (Iowa), 19 August 1914, p. 1 — \"A Libelous Circular\"",
+      "url": "https://www.loc.gov/resource/sn84038306/1914-08-19/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular local paper reprinting the Dubuque Telegraph-Herald's report of the Waterville convictions.",
+      "type": "news"
+    },
+    {
+      "id": "crane-v-state-1917",
+      "title": "Crane v. State, Oklahoma Court of Criminal Appeals (1917)",
+      "url": "https://okcca.net/cases/1917/OK-CR-175/",
+      "publisher": "Oklahoma Court of Criminal Appeals case archive",
+      "publisherNote": "The appellate opinion sustaining a criminal-libel conviction over the bogus oath.",
+      "type": "legal"
+    },
+    {
+      "id": "commission-reports-1915-1917",
+      "title": "Commission on Religious Prejudices — Reports, 1915–1917",
+      "url": "https://archive.org/details/reports1915191700knig",
+      "publisher": "Knights of Columbus Supreme Council; Internet Archive microform scan",
+      "publisherNote": "The Commission's own published reports; official perspective.",
+      "type": "report"
+    },
+    {
+      "id": "columbia-knights-vs-klan-2017",
+      "title": "The Knights vs. the Klan",
+      "url": "https://www.columbiamagazine.org/knights/k-of-c-history/2017/11/knights-vs-the-klan/",
+      "publisher": "Kevin Coyne, Columbia Magazine (Knights of Columbus), 1 November 2017",
+      "publisherNote": "The Order's institutional history of the Klan conflict — sympathetic, rich in archival detail; its uncorroborated anecdotes are attributed to it wherever used.",
+      "type": "official"
+    },
+    {
+      "id": "time-fake-oath-1928",
+      "title": "Religion: Great & Fake Oath",
+      "url": "https://time.com/archive/6861345/religion-great-fake-oath/",
+      "publisher": "Time, 3 September 1928",
+      "publisherNote": "Contemporary secular reporting on the 1928 flood of the fabrication and the Order's reward.",
+      "type": "news"
+    },
+    {
+      "id": "time-fake-oath-1960",
+      "title": "Prejudice: The Fake Oath",
+      "url": "https://time.com/archive/6807404/prejudice-the-fake-oath/",
+      "publisher": "Time, 22 August 1960",
+      "publisherNote": "Contemporary secular debunking during the Kennedy campaign.",
+      "type": "news"
+    },
+    {
+      "id": "independent-1928-reward",
+      "title": "The Independent (Elizabeth City, N.C.), 26 October 1928, p. 6 — the Order's $25,000 reward notice",
+      "url": "https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "The Order's own paid campaign-season rebuttal, preserved in a Southern paper; reprints the 1913 House finding with page citations.",
+      "type": "news"
+    },
+    {
+      "id": "dubois-gift-1924",
+      "title": "The Gift of Black Folk: The Negroes in the Making of America",
+      "url": "https://archive.org/details/giftofblackfolkn00dubo",
+      "publisher": "W. E. B. Du Bois (Stratford Co., 1924); Internet Archive scan",
+      "publisherNote": "Commissioned by the Order's Historical Commission, with an introduction by its chairman Edward F. McSweeney.",
+      "type": "book"
+    },
+    {
+      "id": "cohen-jews-1924",
+      "title": "The Jews in the Making of America",
+      "url": "https://archive.org/details/jewsinmakingofam0000geor_o4l0",
+      "publisher": "George Cohen (Stratford Co., 1924); Internet Archive scan",
+      "publisherNote": "Second volume of the Racial Contributions series.",
+      "type": "book"
+    },
+    {
+      "id": "schrader-germans-1924",
+      "title": "The Germans in the Making of America",
+      "url": "https://archive.org/details/germansinmakingo0000fred",
+      "publisher": "Frederick Franklin Schrader (Stratford Co., 1924); Internet Archive scan",
+      "publisherNote": "Third volume of the Racial Contributions series.",
+      "type": "book"
+    },
+    {
+      "id": "fiery-cross-hoosier",
+      "title": "The Fiery Cross (Indianapolis, 1922–1924) — full-text search for the Order and the oath",
+      "url": "https://newspapers.library.in.gov/?a=q&hs=1&r=1&results=1&txq=%22knights+of+columbus%22+oath&puq=FC&txf=txIN&ssnip=txt",
+      "publisher": "Hoosier State Chronicles (Indiana State Library)",
+      "publisherNote": "The Klan's own weekly — hostile perspective, cited only as evidence of Klan messaging, never for its claims.",
+      "type": "news"
+    },
+    {
+      "id": "pierce-lii",
+      "title": "Pierce v. Society of Sisters, 268 U.S. 510 (1925)",
+      "url": "https://www.law.cornell.edu/supremecourt/text/268/510",
+      "publisher": "Cornell Law School, Legal Information Institute",
+      "publisherNote": "The Supreme Court's opinion; judicial text.",
+      "type": "legal"
+    },
+    {
+      "id": "jenkins-wph-kkk-pa",
+      "title": "The Ku Klux Klan in Pennsylvania, 1920–1940",
+      "url": "https://journals.psu.edu/wph/article/download/3998/3815/3843",
+      "publisher": "Philip Jenkins, Western Pennsylvania Historical Magazine (Penn State journals)",
+      "publisherNote": "Independent scholarly analysis; source for the Carnegie episode.",
+      "type": "academic"
+    },
+    {
+      "id": "educationnext-pierce",
+      "title": "The Centennial of Pierce v. Society of Sisters",
+      "url": "https://www.educationnext.org/centennial-of-pierce-v-society-of-sisters-landmark-decision-school-choice/",
+      "publisher": "Education Next",
+      "publisherNote": "Education-policy journal (school-choice perspective); centennial account of the Oregon law and the case.",
+      "type": "news"
+    },
+    {
+      "id": "nd-magazine-klan-1924",
+      "title": "The Clash with the Klan",
+      "url": "https://magazine.nd.edu/stories/the-clash-with-the-klan/",
+      "publisher": "Margaret Fosmoe, Notre Dame Magazine, 14 May 2024",
+      "publisherNote": "The university's centennial account of May 1924; contains no Knights of Columbus involvement — cited precisely for that distinction.",
+      "type": "news"
+    },
+    {
+      "id": "triblive-carnegie",
+      "title": "'Spartans at Thermopylae': Centennial marks Carnegie residents repelling KKK throng",
+      "url": "https://triblive.com/local/spartans-at-thermopylae-centennial-marks-carnegie-residents-repelling-kkk-throng/",
+      "publisher": "TribLive (Pittsburgh Tribune-Review)",
+      "publisherNote": "Local press centennial account of the 1923 Carnegie riot.",
+      "type": "news"
+    },
+    {
+      "id": "filson-callahan",
+      "title": "Patrick Henry Callahan: A Kentucky Democrat in National Politics",
+      "url": "https://filsonhistorical.org/wp-content/uploads/publicationpdfs/51-1-3_Patrick-Henry-Callahan-A-Kentucky-Democrat-in-National-Politics_Ellis-William-E..pdf",
+      "publisher": "William E. Ellis, Filson Club History Quarterly",
+      "publisherNote": "Academic study of the Commission on Religious Prejudices' chairman.",
+      "type": "academic"
+    },
+    {
+      "id": "encyclopedia-callahan",
+      "title": "Callahan, Patrick Henry",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/callahan-patrick-henry",
+      "publisher": "Encyclopedia.com (New Catholic Encyclopedia)",
+      "publisherNote": "Reference entry; source for the Commission's 1914 mandate wording.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "cwr-buescher-2018",
+      "title": "Senators quiz nominee about membership of 'extreme' Knights of Columbus",
+      "url": "https://www.catholicworldreport.com/2018/12/21/senators-quiz-nominee-about-membership-of-extreme-knights-of-columbus/",
+      "publisher": "Catholic World Report, 21 December 2018",
+      "publisherNote": "Catholic press perspective on the 2018 episode; the framing dispute is recorded, not adjudicated.",
+      "type": "news"
+    },
+    {
+      "id": "dlg-broadside-1913",
+      "title": "Bogus-oath broadside, 'Taken from the Congressional Record of February 15' (c. 1913)",
+      "url": "https://dlg.usg.edu/record/guan_4299_bro1913k5undersized",
+      "publisher": "Digital Library of Georgia",
+      "publisherNote": "A surviving copy of the fabricated broadside itself — the artifact, preserved in an archive; cited as evidence of circulation, never for its claims.",
+      "type": "archive"
+    }
+  ]
+}
