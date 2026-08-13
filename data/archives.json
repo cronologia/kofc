@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-13",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -44,6 +44,24 @@
       "timestamp": "20241211152140",
       "checkedAt": "2026-08-10"
     },
+    "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2008/03/15/0186/00430.html": {
+      "refId": "vatican-bulletin-2008-03-15",
+      "archiveUrl": "https://web.archive.org/web/20241210214144/https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2008/03/15/0186/00430.html",
+      "timestamp": "20241210214144",
+      "checkedAt": "2026-08-13"
+    },
+    "https://scholarworks.iu.edu/journals/index.php/imh/article/view/12141": {
+      "refId": "safianow-imh-tucker-review",
+      "archiveUrl": "https://web.archive.org/web/20260606015547/https://scholarworks.iu.edu/journals/index.php/imh/article/view/12141",
+      "timestamp": "20260606015547",
+      "checkedAt": "2026-08-13"
+    },
+    "https://time.com/4990253/kkk-white-nationalists-history/": {
+      "refId": "waxman-time-2017-kkk",
+      "archiveUrl": "https://web.archive.org/web/20250616165350/https://time.com/4990253/kkk-white-nationalists-history/",
+      "timestamp": "20250616165350",
+      "checkedAt": "2026-08-13"
+    },
     "https://time.com/archive/6807404/prejudice-the-fake-oath/": {
       "refId": "time-fake-oath-1960",
       "archiveUrl": "https://web.archive.org/web/20250913225224/https://time.com/archive/6807404/prejudice-the-fake-oath/",
@@ -61,6 +79,12 @@
       "archiveUrl": "https://web.archive.org/web/20250725093452/https://triblive.com/local/spartans-at-thermopylae-centennial-marks-carnegie-residents-repelling-kkk-throng/",
       "timestamp": "20250725093452",
       "checkedAt": "2026-08-10"
+    },
+    "https://www.aciprensa.com/noticias/88697/asi-inspiran-los-santos-martires-mexicanos-el-apostolado-de-los-caballeros-de-colon": {
+      "refId": "aciprensa-martires-kofc",
+      "archiveUrl": "https://web.archive.org/web/20260116032417/https://www.aciprensa.com/noticias/88697/asi-inspiran-los-santos-martires-mexicanos-el-apostolado-de-los-caballeros-de-colon",
+      "timestamp": "20260116032417",
+      "checkedAt": "2026-08-13"
     },
     "https://www.britannica.com/topic/Knights-of-Columbus": {
       "refId": "britannica-kofc",
@@ -116,11 +140,23 @@
       "timestamp": "20251007065217",
       "checkedAt": "2026-08-10"
     },
+    "https://www.ewtnnews.com/world/us/fr-michael-mcgivney-holy-priest-and-knights-of-columbus-founder-beatified?redirectedfrom=cna": {
+      "refId": "cna-beatification",
+      "archiveUrl": "https://web.archive.org/web/20260810080751/https://www.ewtnnews.com/world/us/fr-michael-mcgivney-holy-priest-and-knights-of-columbus-founder-beatified?redirectedfrom=cna",
+      "timestamp": "20260810080751",
+      "checkedAt": "2026-08-13"
+    },
     "https://www.ewtnnews.com/world/us/knights-of-columbus-report-rise-in-membership-charitable-donations-at-annual-convention?redirectedfrom=cna": {
       "refId": "cna-2024-convention",
       "archiveUrl": "https://web.archive.org/web/20260330054440/https://www.ewtnnews.com/world/us/knights-of-columbus-report-rise-in-membership-charitable-donations-at-annual-convention?redirectedfrom=cna",
       "timestamp": "20260330054440",
       "checkedAt": "2026-08-10"
+    },
+    "https://www.famous-trials.com/stephenson/74-home": {
+      "refId": "linder-stephenson-trial",
+      "archiveUrl": "https://web.archive.org/web/20250824062747/https://www.famous-trials.com/stephenson/74-home",
+      "timestamp": "20250824062747",
+      "checkedAt": "2026-08-13"
     },
     "https://www.fathermcgivney.org/his-life/": {
       "refId": "mcgivney-guild-life",
@@ -133,6 +169,18 @@
       "archiveUrl": "https://web.archive.org/web/20260618144535/https://www.fathermcgivney.org/sainthood-cause/venerable-servant-of-god/",
       "timestamp": "20260618144535",
       "checkedAt": "2026-08-10"
+    },
+    "https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-in-the-twentieth-century/": {
+      "refId": "lay-nge-kkk-20th",
+      "archiveUrl": "https://web.archive.org/web/20260808033100/https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-in-the-twentieth-century/",
+      "timestamp": "20260808033100",
+      "checkedAt": "2026-08-13"
+    },
+    "https://www.in.gov/history/state-historical-markers/find-a-marker/indianapolis-times/": {
+      "refId": "ihb-indianapolis-times-marker",
+      "archiveUrl": "https://web.archive.org/web/20260414114843/https://www.in.gov/history/state-historical-markers/find-a-marker/indianapolis-times/",
+      "timestamp": "20260414114843",
+      "checkedAt": "2026-08-13"
     },
     "https://www.kofc.org/en/who-we-are/our-history/index.html": {
       "refId": "kofc-history-timeline",
@@ -157,6 +205,18 @@
       "archiveUrl": "https://web.archive.org/web/20260716102907/https://www.law.cornell.edu/supremecourt/text/268/510",
       "timestamp": "20260716102907",
       "checkedAt": "2026-08-10"
+    },
+    "https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6": {
+      "refId": "independent-1928-reward",
+      "archiveUrl": "https://web.archive.org/web/20260810081126/https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
+      "timestamp": "20260810081126",
+      "checkedAt": "2026-08-13"
+    },
+    "https://www.loc.gov/resource/sn84038306/1914-08-19/ed-1/?sp=1": {
+      "refId": "manchester-democrat-1914-08-19",
+      "archiveUrl": "https://web.archive.org/web/20260810081321/https://www.loc.gov/resource/sn84038306/1914-08-19/ed-1/?sp=1",
+      "timestamp": "20260810081321",
+      "checkedAt": "2026-08-13"
     },
     "https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice": {
       "refId": "ncregister-peter-claver",
