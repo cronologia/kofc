@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -122,6 +122,12 @@
       "timestamp": "20251219142508",
       "checkedAt": "2026-08-10"
     },
+    "https://www.congress.gov/62/crecb/1913/02/15/GPO-CRECB-1913-pt4-v49-3-2.pdf": {
+      "refId": "crecb-1913-02-15",
+      "archiveUrl": "https://web.archive.org/web/20260824072134/https://www.congress.gov/62/crecb/1913/02/15/GPO-CRECB-1913-pt4-v49-3-2.pdf",
+      "timestamp": "20260824072134",
+      "checkedAt": "2026-08-24"
+    },
     "https://www.educationnext.org/centennial-of-pierce-v-society-of-sisters-landmark-decision-school-choice/": {
       "refId": "educationnext-pierce",
       "archiveUrl": "https://web.archive.org/web/20260518210939/https://www.educationnext.org/centennial-of-pierce-v-society-of-sisters-landmark-decision-school-choice/",
@@ -175,6 +181,12 @@
       "archiveUrl": "https://web.archive.org/web/20260808033100/https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-in-the-twentieth-century/",
       "timestamp": "20260808033100",
       "checkedAt": "2026-08-13"
+    },
+    "https://www.govinfo.gov/link/crec/148/E/1899": {
+      "refId": "crec-2002-under-god",
+      "archiveUrl": "https://web.archive.org/web/20260812121820/https://www.govinfo.gov/content/pkg/CREC-2002-10-17/pdf/CREC-2002-10-17-pt1-PgE1899-3.pdf",
+      "timestamp": "20260812121820",
+      "checkedAt": "2026-08-24"
     },
     "https://www.in.gov/history/state-historical-markers/find-a-marker/indianapolis-times/": {
       "refId": "ihb-indianapolis-times-marker",
