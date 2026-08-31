@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-31",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -37,6 +37,12 @@
       "archiveUrl": "https://web.archive.org/web/20240627150052/https://magazine.nd.edu/stories/the-clash-with-the-klan/",
       "timestamp": "20240627150052",
       "checkedAt": "2026-08-10"
+    },
+    "https://newspapers.library.in.gov/?a=q&hs=1&r=1&results=1&txq=%22knights+of+columbus%22+oath&puq=FC&txf=txIN&ssnip=txt": {
+      "refId": "fiery-cross-hoosier",
+      "archiveUrl": "https://web.archive.org/web/20260831135538/https://newspapers.library.in.gov/?a=q&hs=1&r=1&results=1&txq=%22knights+of+columbus%22+oath&puq=FC&txf=txIN&ssnip=txt",
+      "timestamp": "20260831135538",
+      "checkedAt": "2026-08-31"
     },
     "https://okcca.net/cases/1917/OK-CR-175/": {
       "refId": "crane-v-state-1917",
