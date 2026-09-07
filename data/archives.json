@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-07",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -235,6 +235,18 @@
       "archiveUrl": "https://web.archive.org/web/20260810081321/https://www.loc.gov/resource/sn84038306/1914-08-19/ed-1/?sp=1",
       "timestamp": "20260810081321",
       "checkedAt": "2026-08-13"
+    },
+    "https://www.loc.gov/resource/sn85038485/1921-08-12/ed-1/?sp=1": {
+      "refId": "birmingham-age-herald-1921-08-12",
+      "archiveUrl": "https://web.archive.org/web/20260831135913/https://www.loc.gov/resource/sn85038485/1921-08-12/ed-1/?sp=1",
+      "timestamp": "20260831135913",
+      "checkedAt": "2026-09-07"
+    },
+    "https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4": {
+      "refId": "catholic-bulletin-1913-03-01",
+      "archiveUrl": "https://web.archive.org/web/20260907123452/https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4",
+      "timestamp": "20260907123452",
+      "checkedAt": "2026-09-07"
     },
     "https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice": {
       "refId": "ncregister-peter-claver",
