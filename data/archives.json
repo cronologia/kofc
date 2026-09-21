@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-21",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -20,11 +20,23 @@
       "timestamp": "20260705091123",
       "checkedAt": "2026-08-10"
     },
+    "https://dlg.usg.edu/record/guan_4299_bro1913k5undersized": {
+      "refId": "dlg-broadside-1913",
+      "archiveUrl": "https://web.archive.org/web/20260914124953/https://dlg.usg.edu/record/guan_4299_bro1913k5undersized",
+      "timestamp": "20260914124953",
+      "checkedAt": "2026-09-21"
+    },
     "https://en.wikipedia.org/wiki/Supreme_Knight_of_the_Knights_of_Columbus": {
       "refId": "wikipedia-supreme-knights",
       "archiveUrl": "https://web.archive.org/web/20260131052215/https://en.wikipedia.org/wiki/Supreme_Knight_of_the_Knights_of_Columbus",
       "timestamp": "20260131052215",
       "checkedAt": "2026-08-10"
+    },
+    "https://filsonhistorical.org/wp-content/uploads/publicationpdfs/51-1-3_Patrick-Henry-Callahan-A-Kentucky-Democrat-in-National-Politics_Ellis-William-E..pdf": {
+      "refId": "filson-callahan",
+      "archiveUrl": "https://web.archive.org/web/20260914124923/https://filsonhistorical.org/wp-content/uploads/publicationpdfs/51-1-3_Patrick-Henry-Callahan-A-Kentucky-Democrat-in-National-Politics_Ellis-William-E..pdf",
+      "timestamp": "20260914124923",
+      "checkedAt": "2026-09-21"
     },
     "https://journals.psu.edu/wph/article/download/3998/3815/3843": {
       "refId": "jenkins-wph-kkk-pa",
