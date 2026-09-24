@@ -542,6 +542,22 @@
     },
     {
       "year": 1924,
+      "date": "1924-04-09",
+      "dateVerified": true,
+      "place": "Live Oak County, Texas, USA",
+      "title": "Bugg v. State: a Texas appeals court reverses a bogus-oath libel conviction",
+      "text": "The Texas Court of Criminal Appeals reverses the criminal-libel conviction of W. J. Bugg — an itinerant preacher, per the wire reports of his trial — and orders the prosecution dismissed. Addressing \"a congregation of 150 or more persons\" on Easter Sunday 1922, he had read the alleged oath from the Congressional Record of a contested election, where, the court recounts, the House committee condemned it as spurious; a Live Oak County jury fined him $1,000. The court rules on the charge, not on the oath: the information was defective in failing to state how the publication in Live Oak County \"would affect the reputation of the parties named\", none of whom lived in the county. Unlike Crane v. State and People v. Gordan, this appeal ends in the defendant's favor.",
+      "sources": [
+        "bugg-v-state-1924",
+        "new-britain-herald-1922-11-23",
+        "san-antonio-light-1924-04-10"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1924,
       "dateVerified": false,
       "dateNote": "1924 imprints, all three verified in Internet Archive scans. The Order's account says the Historical Commission was established in 1921 and published the series 'three years later'; no 1923 imprint was found.",
       "place": "Boston, Massachusetts, USA",
@@ -1525,6 +1541,30 @@
       "publisher": "Caselaw Access Project, Harvard Law School Library — California Appellate Reports",
       "publisherNote": "The District Court of Appeal, First Appellate District, affirming the San Francisco criminal-libel conviction of The Crusader's publisher over the fabricated oath; a hearing was denied by the California Supreme Court on 1 November 1923.",
       "type": "legal"
+    },
+    {
+      "id": "bugg-v-state-1924",
+      "title": "Bugg v. State, No. 7570, 97 Tex. Crim. 254, 260 S.W. 872 (9 April 1924)",
+      "url": "https://static.case.law/tex-crim/97/cases/0254-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Texas Criminal Reports",
+      "publisherNote": "The Texas Court of Criminal Appeals reversing a criminal-libel conviction for reading the fabricated oath, on the ground that the charge was defectively pleaded.",
+      "type": "legal"
+    },
+    {
+      "id": "new-britain-herald-1922-11-23",
+      "title": "New Britain Herald, 23 November 1922, p. 9 — wire report of the Bugg conviction",
+      "url": "https://www.loc.gov/resource/sn82014519/1922-11-23/ed-1/?sp=9",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily printing a wire report from Beeville, Texas: the George West jury verdict, the $1,000 fine and an earlier hung jury.",
+      "type": "news"
+    },
+    {
+      "id": "san-antonio-light-1924-04-10",
+      "title": "San Antonio Light, 10 April 1924, p. 2 — \"Libel Case Against Pastor Is Reversed and Then Dismissed\"",
+      "url": "https://www.loc.gov/resource/sn85060004/1924-04-10/ed-1/?sp=2",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Texas daily reporting the reversal; it gives the defendant's initials as \"J. W.\", where the court and the 1922 wire report have \"W. J.\".",
+      "type": "news"
     },
     {
       "id": "commission-reports-1915-1917",
