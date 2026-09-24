@@ -697,6 +697,23 @@
       ]
     },
     {
+      "year": 1929,
+      "date": "1929-06-11",
+      "dateVerified": true,
+      "place": "Savannah, Georgia, USA",
+      "title": "Alumbaugh v. State: Georgia's appeals court affirms a bogus-oath libel conviction",
+      "text": "The Court of Appeals of Georgia affirms the criminal-libel conviction of Mrs. Ed C. Alumbaugh, who in October 1928 had circulated in Savannah a handbill headed \"To Murder Protestants! And Destroy American Government!\" printing the alleged oath as taken from the Congressional Record; the accusation charged that it libeled three named Savannah Knights. In an earlier ruling in the same prosecution, on 9 April 1929, the court had held that \"there can be no question as to the libelous nature of the printed matter\" and that whatever privilege covers a member of Congress \"will not be extended to other persons, not members of Congress, who maliciously reprint the said oath\", noting — citing Crane v. State — \"highly respectable authority\" that a fraternal order may be libeled, without deciding the point. Affirming the conviction, it observed that the Congressional Record had \"denominated it as false, libelous, and spurious\" and that the defendant \"did not deny that it was false\". Per the Associated Press, she began serving six months in jail in January 1930, saying she could not pay the $500 fine.",
+      "sources": [
+        "alumbaugh-v-state-1929-39-ga-app-559",
+        "alumbaugh-v-state-1929-40-ga-app-15",
+        "alumbaugh-v-state-1929-40-ga-app-22",
+        "evening-star-1930-01-23"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
       "year": 1951,
       "dateVerified": false,
       "dateNote": "April 1951; the day, 22 April, appears in the Order's own account as republished in the Congressional Record (2002) and in diocesan press (1999) — but every source pinning the day traces to the Order's narrative, and no independent period attestation has been located.",
@@ -1549,6 +1566,38 @@
       "publisher": "Caselaw Access Project, Harvard Law School Library — Texas Criminal Reports",
       "publisherNote": "The Texas Court of Criminal Appeals reversing a criminal-libel conviction for reading the fabricated oath, on the ground that the charge was defectively pleaded.",
       "type": "legal"
+    },
+    {
+      "id": "alumbaugh-v-state-1929-39-ga-app-559",
+      "title": "Alumbaugh v. State, Nos. 19525–19526, 39 Ga. App. 559 (9 April 1929)",
+      "url": "https://static.case.law/ga-app/39/cases/0559-02.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Georgia Appeals Reports",
+      "publisherNote": "The Court of Appeals of Georgia upholding the accusation before trial: the libelous nature of the printed oath, and no Congressional Record privilege for those who reprint it; cites Crane v. State.",
+      "type": "legal"
+    },
+    {
+      "id": "alumbaugh-v-state-1929-40-ga-app-15",
+      "title": "Alumbaugh v. State, No. 19694, 40 Ga. App. 15 (11 June 1929)",
+      "url": "https://static.case.law/ga-app/40/cases/0015-02.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Georgia Appeals Reports",
+      "publisherNote": "The Court of Appeals of Georgia affirming the conviction in the City Court of Savannah.",
+      "type": "legal"
+    },
+    {
+      "id": "alumbaugh-v-state-1929-40-ga-app-22",
+      "title": "Alumbaugh v. State, No. 19695, 40 Ga. App. 22 (11 June 1929)",
+      "url": "https://static.case.law/ga-app/40/cases/0022-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Georgia Appeals Reports",
+      "publisherNote": "The companion ruling of the same day, affirming the denial of the motion in arrest of judgment.",
+      "type": "legal"
+    },
+    {
+      "id": "evening-star-1930-01-23",
+      "title": "Evening Star (Washington), 23 January 1930, p. 3 — \"Woman Goes to Jail for False K. C. Oath\"",
+      "url": "https://www.loc.gov/resource/sn83045462/1930-01-23/ed-1/?sp=3",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily printing an Associated Press dispatch from Savannah on the start of Alumbaugh's jail term; its statement that the Supreme Court of Georgia also sustained the conviction has no reported decision behind it that this project located.",
+      "type": "news"
     },
     {
       "id": "new-britain-herald-1922-11-23",
