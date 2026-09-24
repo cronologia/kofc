@@ -415,13 +415,14 @@
     },
     {
       "year": 1917,
-      "dateVerified": false,
-      "dateNote": "1917; the opinion's exact filing date was not extracted from the court archive.",
+      "date": "1917-08-27",
+      "dateVerified": true,
       "place": "Oklahoma, USA",
       "title": "Crane v. State: an appellate court sustains a bogus-oath conviction",
       "text": "The Oklahoma Court of Criminal Appeals affirms Roy Crane's criminal-libel conviction for publishing and distributing a book containing the alleged oath, holding that libel of an identifiable class — the Fourth Degree Knights of the county — is actionable without naming every member, and that it sufficed to prove the purported oath false without disclosing the true obligation. Numerous witnesses had testified to the falsity of the charges.",
       "sources": [
-        "crane-v-state-1917"
+        "crane-v-state-1917",
+        "crane-v-state-1917-cap"
       ],
       "threads": [
         "anti-catholic-conflict"
@@ -497,6 +498,20 @@
       "sources": [
         "jenkins-wph-kkk-pa",
         "triblive-carnegie"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923-09-05",
+      "dateVerified": true,
+      "place": "San Francisco, California, USA",
+      "title": "People v. Gordan: a California appeals court affirms a bogus-oath libel conviction",
+      "text": "California's District Court of Appeal affirms the criminal-libel conviction of David J. Gordan, publisher of The Crusader, a magazine the court put at sixty to eighty thousand copies, which had reprinted the fabricated oath from the 1913 Congressional Record with no mention, the court noted, that the House committee had found it false. The court holds that the privilege for reports of official proceedings does not protect one who has \"willfully and maliciously distorted a statement found in a legislative publication by intentionally publishing fragmentary and incomplete parts thereof\", and — relying in part on Crane v. State — that a libel against a class is punishable. Gordan had been sentenced to six months in the county jail; the California Supreme Court denied a hearing on 1 November 1923.",
+      "sources": [
+        "people-v-gordan-1923"
       ],
       "threads": [
         "anti-catholic-conflict"
@@ -1482,6 +1497,22 @@
       "url": "https://okcca.net/cases/1917/OK-CR-175/",
       "publisher": "Oklahoma Court of Criminal Appeals case archive",
       "publisherNote": "The appellate opinion sustaining a criminal-libel conviction over the bogus oath.",
+      "type": "legal"
+    },
+    {
+      "id": "crane-v-state-1917-cap",
+      "title": "Crane v. State, No. A-2722, 14 Okla. Crim. 30, 166 P. 1110 (opinion filed 27 August 1917)",
+      "url": "https://static.case.law/okla-crim/14/cases/0030-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Oklahoma Criminal Reports",
+      "publisherNote": "The official reporter text, whose head matter gives the docket number and the filing date that the court archive's copy omits.",
+      "type": "legal"
+    },
+    {
+      "id": "people-v-gordan-1923",
+      "title": "People v. Gordan, Crim. No. 1117, 63 Cal. App. 627 (5 September 1923)",
+      "url": "https://static.case.law/cal-app/63/cases/0627-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — California Appellate Reports",
+      "publisherNote": "The District Court of Appeal, First Appellate District, affirming the San Francisco criminal-libel conviction of The Crusader's publisher over the fabricated oath; a hearing was denied by the California Supreme Court on 1 November 1923.",
       "type": "legal"
     },
     {

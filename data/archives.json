@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-24",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -235,6 +235,12 @@
       "archiveUrl": "https://web.archive.org/web/20260716102907/https://www.law.cornell.edu/supremecourt/text/268/510",
       "timestamp": "20260716102907",
       "checkedAt": "2026-08-10"
+    },
+    "https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2": {
+      "refId": "mjc-1882-02-08",
+      "archiveUrl": "https://web.archive.org/web/20260921125144/https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2",
+      "timestamp": "20260921125144",
+      "checkedAt": "2026-09-24"
     },
     "https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6": {
       "refId": "independent-1928-reward",
