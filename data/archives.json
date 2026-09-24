@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-24",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -236,6 +236,18 @@
       "timestamp": "20260716102907",
       "checkedAt": "2026-08-10"
     },
+    "https://www.loc.gov/resource/sn82014086/1913-02-20/ed-1/?sp=1": {
+      "refId": "norwich-bulletin-1913-02-20",
+      "archiveUrl": "https://web.archive.org/web/20260116022159/https://www.loc.gov/resource/sn82014086/1913-02-20/ed-1/?sp=1",
+      "timestamp": "20260116022159",
+      "checkedAt": "2026-09-24"
+    },
+    "https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2": {
+      "refId": "mjc-1882-02-08",
+      "archiveUrl": "https://web.archive.org/web/20260921125144/https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2",
+      "timestamp": "20260921125144",
+      "checkedAt": "2026-09-24"
+    },
     "https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6": {
       "refId": "independent-1928-reward",
       "archiveUrl": "https://web.archive.org/web/20260810081126/https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
@@ -259,6 +271,12 @@
       "archiveUrl": "https://web.archive.org/web/20260907123452/https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4",
       "timestamp": "20260907123452",
       "checkedAt": "2026-09-07"
+    },
+    "https://www.loc.gov/resource/sn94053256/1890-08-14/ed-1/?sp=4": {
+      "refId": "waterbury-democrat-1890-08-14",
+      "archiveUrl": "https://web.archive.org/web/20260921125101/https://www.loc.gov/resource/sn94053256/1890-08-14/ed-1/?sp=4",
+      "timestamp": "20260921125101",
+      "checkedAt": "2026-09-24"
     },
     "https://www.ncregister.com/news/knights-and-ladies-of-peter-claver-committed-to-holiness-and-justice": {
       "refId": "ncregister-peter-claver",

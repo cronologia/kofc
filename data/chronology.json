@@ -260,11 +260,14 @@
     {
       "year": 1905,
       "dateVerified": false,
-      "dateNote": "1905; the exact charter days of Manila Council 1000 and Guadalupe Council 1050 were not established in the sources reached.",
+      "dateNote": "Manila's charter was granted at the national directors' meeting of Monday 9 January 1905, per a New Haven paper two days later; the council's institution day is not attested in any period source reached. Guadalupe Council's institution in September 1905 rests on Supreme Knight Hearn's own reports, with no day given — a November 1905 Catholic report still spoke of it as forthcoming — and its charter class received the degrees on 21–22 February 1906.",
       "place": "Manila, Philippines / Mexico City, Mexico",
       "title": "First councils in the Philippines and Mexico",
-      "text": "Manila Council 1000 and Mexico City's Guadalupe Council 1050 are chartered, opening the Order's presence in Asia and Latin America, per the Order's timeline.",
+      "text": "The Order's national directors grant a charter to a council in Manila, starting out, a New Haven paper reports, with about a hundred members, mostly American settlers; it becomes Manila Council 1000. In Mexico City, Supreme Knight Edward L. Hearn institutes Guadalupe Council 1050, by his own account in September; its charter class takes the degrees the following February, before some fifty visiting Knights from the United States. The two councils open the Order's presence in Asia and Latin America.",
       "sources": [
+        "nhjc-1905-01-11",
+        "nhunion-1906-06-05",
+        "abq-citizen-1906-03-01",
         "kofc-history-timeline"
       ],
       "threads": [
@@ -338,14 +341,17 @@
     {
       "year": 1913,
       "date": "1913-02-19",
-      "dateVerified": false,
-      "dateNote": "The Catholic Bulletin reports the arrests on 19 February 1913; the Order's pamphlet dates the holding-over to 20 February — likely arrest versus arraignment. Both dates recorded.",
+      "dateVerified": true,
+      "dateNote": "The arrests fall on 19 February 1913: an Associated Press dispatch datelined that day reports them \"here today\", and the New Haven Union of the 20th says \"yesterday\". The magistrate's hearing was set for the next day — the 20 February the Order's pamphlet gives — but a Joplin Tribune special reprinted by The Menace is datelined 21 February; the hearing day is not independently fixed.",
       "place": "Philadelphia, Pennsylvania, USA",
       "title": "Philadelphia arrests: the printer and the distributor",
       "text": "Printer Charles Megonegal and barber Clarence H. Stage are arrested for criminal libel and conspiracy over the bogus oath, on the affidavit of a Knight; a magistrate holds Megonegal in $2,000 bail and Stage in $1,000. At the hearing, per the period Catholic press and the Order's pamphlet, Megonegal said he had bought copies of the oath in bulk from The Menace, the anti-Catholic weekly of Aurora, Missouri, before printing his own.",
       "sources": [
+        "norwich-bulletin-1913-02-20",
+        "new-haven-union-1913-02-20",
         "catholic-bulletin-1913-03-01",
-        "kofc-criminal-libel-pamphlet-1914"
+        "kofc-criminal-libel-pamphlet-1914",
+        "menace-1913-03-01"
       ],
       "threads": [
         "anti-catholic-conflict"
@@ -368,12 +374,15 @@
     },
     {
       "year": 1914,
-      "dateVerified": false,
-      "dateNote": "Mid-August 1914 — the Manchester Democrat of 19 August reprints the Telegraph-Herald item as 'last week'; the exact trial day was not pinned. The Order's pamphlet records the sentence and the September appeal.",
+      "date": "1914-07-29",
+      "dateVerified": true,
       "place": "Waterville, Minnesota, USA",
       "title": "The Morrisons convicted; the real Fourth Degree obligation enters a court record",
-      "text": "A jury — with the town's Methodist minister as foreman, as the secular local press noted — unanimously convicts A. M. and G. E. Morrison, father and son, of criminal libel for charging that a local editor had subscribed to the alleged oath. Supreme Secretary William J. McGinley placed the real Fourth Degree obligation in evidence, in what the press of the day called the first opportunity the Order had been given to put the real obligation on a court record. Sentence: thirty days each.",
+      "text": "A jury — with the town's Methodist minister as foreman, as the secular local press noted — unanimously convicts A. M. and Garfield E. Morrison, father and son, Mankato newspaper editors, of criminal libel for charging that E. M. Lawless, editor of the Waterville Sentinel, had subscribed to the alleged oath. Supreme Secretary William J. McGinley placed the real Fourth Degree obligation in evidence, in what the press of the day called the first opportunity the Order had been given to put the real obligation on a court record. Sentence: thirty days each, without the option of a fine. On appeal to the district court at Le Sueur in February 1915, the Morrisons pleaded guilty and were fined twenty-five dollars each, per the Catholic press.",
       "sources": [
+        "catholic-bulletin-1914-08-08",
+        "catholic-bulletin-1915-03-06",
+        "irish-standard-1915-02-27",
         "manchester-democrat-1914-08-19",
         "kofc-criminal-libel-pamphlet-1914"
       ],
@@ -415,13 +424,14 @@
     },
     {
       "year": 1917,
-      "dateVerified": false,
-      "dateNote": "1917; the opinion's exact filing date was not extracted from the court archive.",
+      "date": "1917-08-27",
+      "dateVerified": true,
       "place": "Oklahoma, USA",
       "title": "Crane v. State: an appellate court sustains a bogus-oath conviction",
       "text": "The Oklahoma Court of Criminal Appeals affirms Roy Crane's criminal-libel conviction for publishing and distributing a book containing the alleged oath, holding that libel of an identifiable class — the Fourth Degree Knights of the county — is actionable without naming every member, and that it sufficed to prove the purported oath false without disclosing the true obligation. Numerous witnesses had testified to the falsity of the charges.",
       "sources": [
-        "crane-v-state-1917"
+        "crane-v-state-1917",
+        "crane-v-state-1917-cap"
       ],
       "threads": [
         "anti-catholic-conflict"
@@ -497,6 +507,20 @@
       "sources": [
         "jenkins-wph-kkk-pa",
         "triblive-carnegie"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923-09-05",
+      "dateVerified": true,
+      "place": "San Francisco, California, USA",
+      "title": "People v. Gordan: a California appeals court affirms a bogus-oath libel conviction",
+      "text": "California's District Court of Appeal affirms the criminal-libel conviction of David J. Gordan, publisher of The Crusader, a magazine the court put at sixty to eighty thousand copies, which had reprinted the fabricated oath from the 1913 Congressional Record with no mention, the court noted, that the House committee had found it false. The court holds that the privilege for reports of official proceedings does not protect one who has \"willfully and maliciously distorted a statement found in a legislative publication by intentionally publishing fragmentary and incomplete parts thereof\", and — relying in part on Crane v. State — that a libel against a class is punishable. Gordan had been sentenced to six months in the county jail; the California Supreme Court denied a hearing on 1 November 1923.",
+      "sources": [
+        "people-v-gordan-1923"
       ],
       "threads": [
         "anti-catholic-conflict"
@@ -923,22 +947,23 @@
     },
     {
       "name": "James T. Mullen",
-      "role": "First Supreme Knight (1882–1886); presided at the institution of 22 of the Order's first 38 councils, per the Order's timeline. Exact term days rest on a tertiary list and are flagged",
+      "role": "First Supreme Knight (1882–1886); presided at the institution of 22 of the Order's first 38 councils, per the Order's timeline. He declined re-election in May 1886, when the Board of Government chose John J. Phelan, per a New Haven paper of the day",
       "dates": "1847–1891",
       "country": "United States",
       "sources": [
         "kofc-history-timeline",
-        "wikipedia-supreme-knights"
+        "nhjc-1886-05-18"
       ]
     },
     {
       "name": "James A. Flaherty",
-      "role": "Supreme Knight 1909–1927; led the Order through the bogus-oath years, the First World War hut program and the 1926 meeting with President Coolidge on Mexico",
+      "role": "Supreme Knight 1909–1927 — elected at the Mobile convention on 4 August 1909, assuming charge in New Haven on 1 September; led the Order through the bogus-oath years, the First World War hut program and the 1926 meeting with President Coolidge on Mexico",
       "dates": "1853–1937",
       "country": "United States",
       "sources": [
         "kofc-history-timeline",
-        "wikipedia-supreme-knights"
+        "nytrib-1909-08-05",
+        "nhunion-1909-09-01"
       ]
     },
     {
@@ -953,12 +978,13 @@
     },
     {
       "name": "Martin H. Carmody",
-      "role": "Supreme Knight 1927–1939; continued the Order's advocacy on the Mexican persecution, meeting President Roosevelt in 1935",
+      "role": "Supreme Knight 1927–1939 — elected at the Portland, Oregon, convention in August 1927; continued the Order's advocacy on the Mexican persecution, meeting President Roosevelt in 1935",
       "dates": "1872–1950",
       "country": "United States",
       "sources": [
         "kofc-history-timeline",
-        "wikipedia-supreme-knights"
+        "montgomery-adv-1927-08-05",
+        "springfield-rep-1927-08-11"
       ]
     },
     {
@@ -1485,6 +1511,22 @@
       "type": "legal"
     },
     {
+      "id": "crane-v-state-1917-cap",
+      "title": "Crane v. State, No. A-2722, 14 Okla. Crim. 30, 166 P. 1110 (opinion filed 27 August 1917)",
+      "url": "https://static.case.law/okla-crim/14/cases/0030-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — Oklahoma Criminal Reports",
+      "publisherNote": "The official reporter text, whose head matter gives the docket number and the filing date that the court archive's copy omits.",
+      "type": "legal"
+    },
+    {
+      "id": "people-v-gordan-1923",
+      "title": "People v. Gordan, Crim. No. 1117, 63 Cal. App. 627 (5 September 1923)",
+      "url": "https://static.case.law/cal-app/63/cases/0627-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — California Appellate Reports",
+      "publisherNote": "The District Court of Appeal, First Appellate District, affirming the San Francisco criminal-libel conviction of The Crusader's publisher over the fabricated oath; a hearing was denied by the California Supreme Court on 1 November 1923.",
+      "type": "legal"
+    },
+    {
       "id": "commission-reports-1915-1917",
       "title": "Commission on Religious Prejudices — Reports, 1915–1917",
       "url": "https://archive.org/details/reports1915191700knig",
@@ -1722,6 +1764,118 @@
       "url": "https://www.aciprensa.com/noticias/88697/asi-inspiran-los-santos-martires-mexicanos-el-apostolado-de-los-caballeros-de-colon",
       "publisher": "ACI Prensa (EWTN)",
       "publisherNote": "Catholic press independent of the Order naming the six canonized priests reported as Knights; the list likely derives from the Order’s research. Requires a browser User-Agent to fetch.",
+      "type": "news"
+    },
+    {
+      "id": "catholic-bulletin-1914-08-08",
+      "title": "The Catholic Bulletin (St. Paul), 8 August 1914, pp. 1 and 8 — the Waterville libel trial",
+      "url": "https://www.loc.gov/resource/sn90060976/1914-08-08/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Archdiocesan Catholic weekly, sympathetic to the Order; dates the trial to Wednesday, 29 July, and reports the verdict and sentence.",
+      "type": "news"
+    },
+    {
+      "id": "catholic-bulletin-1915-03-06",
+      "title": "The Catholic Bulletin (St. Paul), 6 March 1915, p. 1 — the Morrisons plead guilty on appeal",
+      "url": "https://www.loc.gov/resource/sn90060976/1915-03-06/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Archdiocesan Catholic weekly, sympathetic to the Order; dates the Waterville sentence to 29 July 1914 and reports the $25 fines on appeal.",
+      "type": "news"
+    },
+    {
+      "id": "irish-standard-1915-02-27",
+      "title": "The Irish Standard (Minneapolis), 27 February 1915, p. 5 — \"K. of C. Libel Suit at Le Sueur\"",
+      "url": "https://www.loc.gov/resource/sn90059959/1915-02-27/ed-1/?sp=5",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Irish Catholic weekly, sympathetic to the Order; gives the case title \"State of Minnesota vs. A. M. Morrison and Garfield E. Morrison\".",
+      "type": "news"
+    },
+    {
+      "id": "norwich-bulletin-1913-02-20",
+      "title": "Norwich Bulletin, 20 February 1913, p. 1 — \"Knight of Columbus Causes Two Arrests\"",
+      "url": "https://www.loc.gov/resource/sn82014086/1913-02-20/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily printing an Associated Press dispatch datelined Philadelphia, 19 February.",
+      "type": "news"
+    },
+    {
+      "id": "new-haven-union-1913-02-20",
+      "title": "The New Haven Union, 20 February 1913, p. 1",
+      "url": "https://www.loc.gov/resource/sn92051126/1913-02-20/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily in the Order's headquarters city; reports the Philadelphia arrests as of \"yesterday\".",
+      "type": "news"
+    },
+    {
+      "id": "menace-1913-03-01",
+      "title": "The Menace (Aurora, Missouri), 1 March 1913, p. 1 — reprint of a Joplin Tribune special from Philadelphia",
+      "url": "https://www.loc.gov/resource/sn89066178/1913-03-01/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Anti-Catholic weekly, hostile to the Order — the paper from which, per the Catholic press, the Philadelphia printer said he had bought copies of the oath; cited here only for the dateline of the dispatch it reprints.",
+      "type": "news"
+    },
+    {
+      "id": "nhjc-1886-05-18",
+      "title": "Morning Journal and Courier (New Haven), 18 May 1886, p. 4 — \"Knights in Convention\"",
+      "url": "https://www.loc.gov/resource/sn82015483/1886-05-18/ed-1/?sp=4",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily in the Order's home city; reports Mullen declining re-election and Phelan's election.",
+      "type": "news"
+    },
+    {
+      "id": "nytrib-1909-08-05",
+      "title": "New-York Tribune, 5 August 1909, p. 4 — \"J. A. Flaherty Heads Knights of Columbus\"",
+      "url": "https://www.loc.gov/resource/sn83030214/1909-08-05/ed-1/?sp=4",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily; dispatch datelined Mobile, 4 August 1909.",
+      "type": "news"
+    },
+    {
+      "id": "nhunion-1909-09-01",
+      "title": "The New Haven Union, 1 September 1909, p. 1 — \"Change of Administration Today\"",
+      "url": "https://www.loc.gov/resource/sn92051126/1909-09-01/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily in the Order's headquarters city; reports Flaherty assuming charge that day.",
+      "type": "news"
+    },
+    {
+      "id": "montgomery-adv-1927-08-05",
+      "title": "The Montgomery Advertiser, 5 August 1927, p. 2 — Associated Press report of the Portland convention",
+      "url": "https://www.loc.gov/resource/sn84020645/1927-08-05/ed-1/?sp=2",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily; Associated Press dispatch datelined Portland, Oregon, 3 August, reporting Carmody's election.",
+      "type": "news"
+    },
+    {
+      "id": "springfield-rep-1927-08-11",
+      "title": "Springfield Weekly Republican, 11 August 1927, p. 7 — \"Martin H. Carmody New K. of C. Head\"",
+      "url": "https://www.loc.gov/resource/sn83020847/1927-08-11/ed-1/?sp=7",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular weekly reprinting the Associated Press dispatch from Portland, Oregon.",
+      "type": "news"
+    },
+    {
+      "id": "nhjc-1905-01-11",
+      "title": "Morning Journal and Courier (New Haven), 11 January 1905, p. 7 — \"Council in Manila\"",
+      "url": "https://www.loc.gov/resource/sn84020358/1905-01-11/ed-1/?sp=7",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily in the Order's home city; reports the national directors granting the Manila charter at their meeting of the previous Monday.",
+      "type": "news"
+    },
+    {
+      "id": "nhunion-1906-06-05",
+      "title": "The New Haven Union, 5 June 1906, p. 5 — Supreme Knight Hearn's convention address",
+      "url": "https://www.loc.gov/resource/sn92051126/1906-06-05/ed-1/?sp=5",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily printing the Supreme Knight's own report: the first Mexican council \"instituted in the City of Mexico last September\".",
+      "type": "news"
+    },
+    {
+      "id": "abq-citizen-1906-03-01",
+      "title": "Albuquerque Evening Citizen, 1 March 1906, p. 6 — \"Guadalupe Council Knights of Columbus Instituted in City of Mexico\"",
+      "url": "https://www.loc.gov/resource/sn84020615/1906-03-01/ed-1/?sp=6",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily; a returning local Knight's account of the February 1906 charter-class ceremonies.",
       "type": "news"
     }
   ]
