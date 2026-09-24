@@ -260,11 +260,14 @@
     {
       "year": 1905,
       "dateVerified": false,
-      "dateNote": "1905; the exact charter days of Manila Council 1000 and Guadalupe Council 1050 were not established in the sources reached.",
+      "dateNote": "Manila's charter was granted at the national directors' meeting of Monday 9 January 1905, per a New Haven paper two days later; the council's institution day is not attested in any period source reached. Guadalupe Council's institution in September 1905 rests on Supreme Knight Hearn's own reports, with no day given — a November 1905 Catholic report still spoke of it as forthcoming — and its charter class received the degrees on 21–22 February 1906.",
       "place": "Manila, Philippines / Mexico City, Mexico",
       "title": "First councils in the Philippines and Mexico",
-      "text": "Manila Council 1000 and Mexico City's Guadalupe Council 1050 are chartered, opening the Order's presence in Asia and Latin America, per the Order's timeline.",
+      "text": "The Order's national directors grant a charter to a council in Manila, starting out, a New Haven paper reports, with about a hundred members, mostly American settlers; it becomes Manila Council 1000. In Mexico City, Supreme Knight Edward L. Hearn institutes Guadalupe Council 1050, by his own account in September; its charter class takes the degrees the following February, before some fifty visiting Knights from the United States. The two councils open the Order's presence in Asia and Latin America.",
       "sources": [
+        "nhjc-1905-01-11",
+        "nhunion-1906-06-05",
+        "abq-citizen-1906-03-01",
         "kofc-history-timeline"
       ],
       "threads": [
@@ -1849,6 +1852,30 @@
       "url": "https://www.loc.gov/resource/sn83020847/1927-08-11/ed-1/?sp=7",
       "publisher": "Library of Congress, Chronicling America",
       "publisherNote": "Secular weekly reprinting the Associated Press dispatch from Portland, Oregon.",
+      "type": "news"
+    },
+    {
+      "id": "nhjc-1905-01-11",
+      "title": "Morning Journal and Courier (New Haven), 11 January 1905, p. 7 — \"Council in Manila\"",
+      "url": "https://www.loc.gov/resource/sn84020358/1905-01-11/ed-1/?sp=7",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily in the Order's home city; reports the national directors granting the Manila charter at their meeting of the previous Monday.",
+      "type": "news"
+    },
+    {
+      "id": "nhunion-1906-06-05",
+      "title": "The New Haven Union, 5 June 1906, p. 5 — Supreme Knight Hearn's convention address",
+      "url": "https://www.loc.gov/resource/sn92051126/1906-06-05/ed-1/?sp=5",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily printing the Supreme Knight's own report: the first Mexican council \"instituted in the City of Mexico last September\".",
+      "type": "news"
+    },
+    {
+      "id": "abq-citizen-1906-03-01",
+      "title": "Albuquerque Evening Citizen, 1 March 1906, p. 6 — \"Guadalupe Council Knights of Columbus Instituted in City of Mexico\"",
+      "url": "https://www.loc.gov/resource/sn84020615/1906-03-01/ed-1/?sp=6",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Secular daily; a returning local Knight's account of the February 1906 charter-class ceremonies.",
       "type": "news"
     }
   ]
