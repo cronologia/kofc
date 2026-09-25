@@ -408,6 +408,21 @@
       ]
     },
     {
+      "year": 1915,
+      "date": "1915-11-12",
+      "dateVerified": true,
+      "place": "Santa Cruz County, California, USA",
+      "title": "People v. Turner: a California appeals court sustains a bogus-oath libel conviction",
+      "text": "California's District Court of Appeal affirms the criminal-libel conviction of Henry S. Turner, publisher of The World-Issue, who in August 1914, during an election campaign in Santa Cruz County, had printed extracts of the alleged Fourth Degree oath. The court holds that the article \"in terms and in effect it refers to each and every member of the order of the degree named\", and that a criminal libel \"may be upon a family or a class of persons if the tendency of the publication is to stir up riot and disorder\"; falsity was not contested — \"It is undisputed that the publication was false\". The Catholic press reported a fine of two hundred dollars. It is the earliest reported appellate ruling on the oath this project has located; later oath cases in California and Georgia cite it.",
+      "sources": [
+        "people-v-turner-1915",
+        "catholic-bulletin-1915-05-22"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
+      ]
+    },
+    {
       "year": 1917,
       "dateVerified": false,
       "dateNote": "The Commission's reports were published 1915–1917; the final report is dated 1917.",
@@ -678,6 +693,20 @@
       ],
       "threads": [
         "church-relations"
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938-05-10",
+      "dateVerified": true,
+      "place": "New York, New York, USA",
+      "title": "People v. Edmondson: a New York court reads the oath cases narrowly",
+      "text": "Dismissing a criminal-libel indictment against the pamphleteer Robert Edward Edmondson for libeling \"all persons of the Jewish Religion\", Judge Wallace of New York's Court of General Sessions surveys the bogus-oath prosecutions — Turner, Crane, Gordan and Alumbaugh — as group-libel precedents and reads each as a case of a limited group with individuals libeled: Crane, he writes, is \"authority for the rule that a group, as easily ascertainable, as clearly defined and as limited as a certain degree of a secret society in a certain community, may be criminally libeled.\" He holds that \"an indictment cannot be predicated upon defamatory writings assailing a class or group unless directly, or by implication, some individual is libeled.\"",
+      "sources": [
+        "people-v-edmondson-1938"
+      ],
+      "threads": [
+        "anti-catholic-conflict"
       ]
     },
     {
@@ -1536,6 +1565,22 @@
       "type": "news"
     },
     {
+      "id": "people-v-turner-1915",
+      "title": "People v. Turner, Crim. No. 592, 28 Cal. App. 766, 154 Pac. 34 (12 November 1915)",
+      "url": "https://static.case.law/cal-app/28/cases/0766-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — California Appellate Reports",
+      "publisherNote": "The District Court of Appeal, First Appellate District, affirming the conviction of a Santa Cruz County publisher for printing the fabricated oath; later cited in Gordan and Alumbaugh.",
+      "type": "legal"
+    },
+    {
+      "id": "catholic-bulletin-1915-05-22",
+      "title": "The Catholic Bulletin (St. Paul), 22 May 1915, p. 1 — the Turner libel conviction",
+      "url": "https://www.loc.gov/resource/sn90060976/1915-05-22/ed-1/?sp=1",
+      "publisher": "Library of Congress, Chronicling America",
+      "publisherNote": "Archdiocesan Catholic weekly, sympathetic to the Order and hostile to the defendant; source for the reported $200 fine, which the court report does not state.",
+      "type": "news"
+    },
+    {
       "id": "crane-v-state-1917",
       "title": "Crane v. State, Oklahoma Court of Criminal Appeals (1917)",
       "url": "https://okcca.net/cases/1917/OK-CR-175/",
@@ -1598,6 +1643,14 @@
       "publisher": "Library of Congress, Chronicling America",
       "publisherNote": "Secular daily printing an Associated Press dispatch from Savannah on the start of Alumbaugh's jail term; its statement that the Supreme Court of Georgia also sustained the conviction has no reported decision behind it that this project located.",
       "type": "news"
+    },
+    {
+      "id": "people-v-edmondson-1938",
+      "title": "People v. Edmondson, 168 Misc. 142 (N.Y. Ct. Gen. Sess., 10 May 1938)",
+      "url": "https://static.case.law/misc/168/cases/0142-01.json",
+      "publisher": "Caselaw Access Project, Harvard Law School Library — New York Miscellaneous Reports",
+      "publisherNote": "A group-libel ruling on a pamphleteer indicted for libeling \"all persons of the Jewish Religion\", which surveys the bogus-oath prosecutions as precedents and reads them narrowly.",
+      "type": "legal"
     },
     {
       "id": "new-britain-herald-1922-11-23",
