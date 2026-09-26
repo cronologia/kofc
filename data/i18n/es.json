@@ -1,12 +1,19 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "351/351",
+    "coverage": "358/358",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-08-10 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
   },
   "strings": {
+    "1897": "1897",
+    "1909": "1909",
+    "1914": "1914",
+    "1915": "1915",
+    "1921": "1921",
+    "1925": "1925",
+    "1939": "1939",
     "Knights of Columbus — Chronology": "Caballeros de Colón — Cronología",
     "Chronology of the Knights of Columbus — the founding, the growth of the Order, its dealings with the Holy See, and the anti-Catholic campaigns against it in the United States, including the fabricated \"bogus oath\" and the Ku Klux Klan": "Cronología de los Caballeros de Colón — la fundación, el crecimiento de la Orden, sus relaciones con la Santa Sede y las campañas anticatólicas en su contra en los Estados Unidos, incluidos el «juramento falso» fabricado y el Ku Klux Klan",
     "An open, source-referenced chronology of the Knights of Columbus, the Catholic fraternal benefit society founded in New Haven in 1882 — its institutional history, its relations with the popes, its public campaigns, and the documented conflict between the Order and organized anti-Catholicism in the United States, from the fabricated Fourth Degree oath of 1912 to the second Ku Klux Klan and its echoes.": "Una cronología abierta y referenciada a sus fuentes de los Caballeros de Colón, la sociedad católica fraternal de beneficios fundada en New Haven en 1882 — su historia institucional, sus relaciones con los papas, sus campañas públicas y el conflicto documentado entre la Orden y el anticatolicismo organizado en los Estados Unidos, desde el juramento fabricado del Cuarto Grado de 1912 hasta el segundo Ku Klux Klan y sus ecos.",

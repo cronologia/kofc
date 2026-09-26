@@ -1,12 +1,19 @@
 {
   "_meta": {
     "targetLang": "pt",
-    "coverage": "351/351",
+    "coverage": "358/358",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-08-10 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
   },
   "strings": {
+    "1897": "1897",
+    "1909": "1909",
+    "1914": "1914",
+    "1915": "1915",
+    "1921": "1921",
+    "1925": "1925",
+    "1939": "1939",
     "Knights of Columbus — Chronology": "Cavaleiros de Colombo — Cronologia",
     "Chronology of the Knights of Columbus — the founding, the growth of the Order, its dealings with the Holy See, and the anti-Catholic campaigns against it in the United States, including the fabricated \"bogus oath\" and the Ku Klux Klan": "Cronologia dos Cavaleiros de Colombo — a fundação, o crescimento da Ordem, suas relações com a Santa Sé e as campanhas anticatólicas contra ela nos Estados Unidos, incluindo o fabricado «juramento falso» (\"bogus oath\") e o Ku Klux Klan",
     "An open, source-referenced chronology of the Knights of Columbus, the Catholic fraternal benefit society founded in New Haven in 1882 — its institutional history, its relations with the popes, its public campaigns, and the documented conflict between the Order and organized anti-Catholicism in the United States, from the fabricated Fourth Degree oath of 1912 to the second Ku Klux Klan and its echoes.": "Uma cronologia aberta e referenciada em fontes dos Cavaleiros de Colombo, a sociedade fraternal beneficente católica fundada em New Haven em 1882 — sua história institucional, suas relações com os papas, suas campanhas públicas e o conflito documentado entre a Ordem e o anticatolicismo organizado nos Estados Unidos, do fabricado juramento do Quarto Grau de 1912 à segundo Ku Klux Klan e seus ecos.",
