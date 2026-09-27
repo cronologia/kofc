@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-27",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -73,6 +73,30 @@
       "archiveUrl": "https://web.archive.org/web/20260606015547/https://scholarworks.iu.edu/journals/index.php/imh/article/view/12141",
       "timestamp": "20260606015547",
       "checkedAt": "2026-08-13"
+    },
+    "https://static.case.law/cal-app/28/cases/0766-01.json": {
+      "refId": "people-v-turner-1915",
+      "archiveUrl": "https://web.archive.org/web/20260927175557/https://static.case.law/cal-app/28/cases/0766-01.json",
+      "timestamp": "20260927175557",
+      "checkedAt": "2026-09-27"
+    },
+    "https://static.case.law/cal-app/63/cases/0627-01.json": {
+      "refId": "people-v-gordan-1923",
+      "archiveUrl": "https://web.archive.org/web/20260927175726/https://static.case.law/cal-app/63/cases/0627-01.json",
+      "timestamp": "20260927175726",
+      "checkedAt": "2026-09-27"
+    },
+    "https://static.case.law/ga-app/39/cases/0559-02.json": {
+      "refId": "alumbaugh-v-state-1929-39-ga-app-559",
+      "archiveUrl": "https://web.archive.org/web/20260927175816/https://static.case.law/ga-app/39/cases/0559-02.json",
+      "timestamp": "20260927175816",
+      "checkedAt": "2026-09-27"
+    },
+    "https://static.case.law/okla-crim/14/cases/0030-01.json": {
+      "refId": "crane-v-state-1917-cap",
+      "archiveUrl": "https://web.archive.org/web/20260927175702/https://static.case.law/okla-crim/14/cases/0030-01.json",
+      "timestamp": "20260927175702",
+      "checkedAt": "2026-09-27"
     },
     "https://time.com/4990253/kkk-white-nationalists-history/": {
       "refId": "waxman-time-2017-kkk",
@@ -242,6 +266,12 @@
       "timestamp": "20260116022159",
       "checkedAt": "2026-09-24"
     },
+    "https://www.loc.gov/resource/sn82014519/1922-11-23/ed-1/?sp=9": {
+      "refId": "new-britain-herald-1922-11-23",
+      "archiveUrl": "https://web.archive.org/web/20260927180052/https://www.loc.gov/resource/sn82014519/1922-11-23/ed-1/?sp=9",
+      "timestamp": "20260927180052",
+      "checkedAt": "2026-09-27"
+    },
     "https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2": {
       "refId": "mjc-1882-02-08",
       "archiveUrl": "https://web.archive.org/web/20260921125144/https://www.loc.gov/resource/sn82015483/1882-02-08/ed-1/?sp=2",
@@ -253,6 +283,12 @@
       "archiveUrl": "https://web.archive.org/web/20260810081126/https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
       "timestamp": "20260810081126",
       "checkedAt": "2026-08-13"
+    },
+    "https://www.loc.gov/resource/sn84020645/1927-08-05/ed-1/?sp=2": {
+      "refId": "montgomery-adv-1927-08-05",
+      "archiveUrl": "https://web.archive.org/web/20260927181103/https://www.loc.gov/resource/sn84020645/1927-08-05/ed-1/?sp=2",
+      "timestamp": "20260927181103",
+      "checkedAt": "2026-09-27"
     },
     "https://www.loc.gov/resource/sn84038306/1914-08-19/ed-1/?sp=1": {
       "refId": "manchester-democrat-1914-08-19",
@@ -271,6 +307,18 @@
       "archiveUrl": "https://web.archive.org/web/20260907123452/https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4",
       "timestamp": "20260907123452",
       "checkedAt": "2026-09-07"
+    },
+    "https://www.loc.gov/resource/sn90060976/1915-05-22/ed-1/?sp=1": {
+      "refId": "catholic-bulletin-1915-05-22",
+      "archiveUrl": "https://web.archive.org/web/20260927175627/https://www.loc.gov/resource/sn90060976/1915-05-22/ed-1/?sp=1",
+      "timestamp": "20260927175627",
+      "checkedAt": "2026-09-27"
+    },
+    "https://www.loc.gov/resource/sn92051126/1913-02-20/ed-1/?sp=1": {
+      "refId": "new-haven-union-1913-02-20",
+      "archiveUrl": "https://web.archive.org/web/20260927180636/https://www.loc.gov/resource/sn92051126/1913-02-20/ed-1/?sp=1",
+      "timestamp": "20260927180636",
+      "checkedAt": "2026-09-27"
     },
     "https://www.loc.gov/resource/sn94053256/1890-08-14/ed-1/?sp=4": {
       "refId": "waterbury-democrat-1890-08-14",
