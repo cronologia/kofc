@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -92,11 +92,35 @@
       "timestamp": "20260927175816",
       "checkedAt": "2026-09-27"
     },
+    "https://static.case.law/ga-app/40/cases/0015-02.json": {
+      "refId": "alumbaugh-v-state-1929-40-ga-app-15",
+      "archiveUrl": "https://web.archive.org/web/20260928135552/https://static.case.law/ga-app/40/cases/0015-02.json",
+      "timestamp": "20260928135552",
+      "checkedAt": "2026-09-28"
+    },
+    "https://static.case.law/ga-app/40/cases/0022-01.json": {
+      "refId": "alumbaugh-v-state-1929-40-ga-app-22",
+      "archiveUrl": "https://web.archive.org/web/20260928135617/https://static.case.law/ga-app/40/cases/0022-01.json",
+      "timestamp": "20260928135617",
+      "checkedAt": "2026-09-28"
+    },
+    "https://static.case.law/misc/168/cases/0142-01.json": {
+      "refId": "people-v-edmondson-1938",
+      "archiveUrl": "https://web.archive.org/web/20260927175958/https://static.case.law/misc/168/cases/0142-01.json",
+      "timestamp": "20260927175958",
+      "checkedAt": "2026-09-28"
+    },
     "https://static.case.law/okla-crim/14/cases/0030-01.json": {
       "refId": "crane-v-state-1917-cap",
       "archiveUrl": "https://web.archive.org/web/20260927175702/https://static.case.law/okla-crim/14/cases/0030-01.json",
       "timestamp": "20260927175702",
       "checkedAt": "2026-09-27"
+    },
+    "https://static.case.law/tex-crim/97/cases/0254-01.json": {
+      "refId": "bugg-v-state-1924",
+      "archiveUrl": "https://web.archive.org/web/20260928135527/https://static.case.law/tex-crim/97/cases/0254-01.json",
+      "timestamp": "20260928135527",
+      "checkedAt": "2026-09-28"
     },
     "https://time.com/4990253/kkk-white-nationalists-history/": {
       "refId": "waxman-time-2017-kkk",
@@ -278,6 +302,12 @@
       "timestamp": "20260921125144",
       "checkedAt": "2026-09-24"
     },
+    "https://www.loc.gov/resource/sn83020847/1927-08-11/ed-1/?sp=7": {
+      "refId": "springfield-rep-1927-08-11",
+      "archiveUrl": "https://web.archive.org/web/20260927181146/https://www.loc.gov/resource/sn83020847/1927-08-11/ed-1/?sp=7",
+      "timestamp": "20260927181146",
+      "checkedAt": "2026-09-28"
+    },
     "https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6": {
       "refId": "independent-1928-reward",
       "archiveUrl": "https://web.archive.org/web/20260810081126/https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
@@ -313,6 +343,12 @@
       "archiveUrl": "https://web.archive.org/web/20260927175627/https://www.loc.gov/resource/sn90060976/1915-05-22/ed-1/?sp=1",
       "timestamp": "20260927175627",
       "checkedAt": "2026-09-27"
+    },
+    "https://www.loc.gov/resource/sn92051126/1906-06-05/ed-1/?sp=5": {
+      "refId": "nhunion-1906-06-05",
+      "archiveUrl": "https://web.archive.org/web/20260927181302/https://www.loc.gov/resource/sn92051126/1906-06-05/ed-1/?sp=5",
+      "timestamp": "20260927181302",
+      "checkedAt": "2026-09-28"
     },
     "https://www.loc.gov/resource/sn92051126/1913-02-20/ed-1/?sp=1": {
       "refId": "new-haven-union-1913-02-20",
