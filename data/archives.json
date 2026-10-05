@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-05",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -314,6 +314,12 @@
       "timestamp": "20260810081126",
       "checkedAt": "2026-08-13"
     },
+    "https://www.loc.gov/resource/sn83045462/1930-01-23/ed-1/?sp=3": {
+      "refId": "evening-star-1930-01-23",
+      "archiveUrl": "https://web.archive.org/web/20261005143927/https://www.loc.gov/resource/sn83045462/1930-01-23/ed-1/?sp=3",
+      "timestamp": "20261005143927",
+      "checkedAt": "2026-10-05"
+    },
     "https://www.loc.gov/resource/sn84020645/1927-08-05/ed-1/?sp=2": {
       "refId": "montgomery-adv-1927-08-05",
       "archiveUrl": "https://web.archive.org/web/20260927181103/https://www.loc.gov/resource/sn84020645/1927-08-05/ed-1/?sp=2",
@@ -331,6 +337,12 @@
       "archiveUrl": "https://web.archive.org/web/20260831135913/https://www.loc.gov/resource/sn85038485/1921-08-12/ed-1/?sp=1",
       "timestamp": "20260831135913",
       "checkedAt": "2026-09-07"
+    },
+    "https://www.loc.gov/resource/sn85060004/1924-04-10/ed-1/?sp=2": {
+      "refId": "san-antonio-light-1924-04-10",
+      "archiveUrl": "https://web.archive.org/web/20260927180134/https://www.loc.gov/resource/sn85060004/1924-04-10/ed-1/?sp=2",
+      "timestamp": "20260927180134",
+      "checkedAt": "2026-10-05"
     },
     "https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4": {
       "refId": "catholic-bulletin-1913-03-01",
