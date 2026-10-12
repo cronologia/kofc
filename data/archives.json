@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-12",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -313,6 +313,12 @@
       "archiveUrl": "https://web.archive.org/web/20260810081126/https://www.loc.gov/resource/sn83025812/1928-10-26/ed-1/?sp=6",
       "timestamp": "20260810081126",
       "checkedAt": "2026-08-13"
+    },
+    "https://www.loc.gov/resource/sn83030214/1909-08-05/ed-1/?sp=4": {
+      "refId": "nytrib-1909-08-05",
+      "archiveUrl": "https://web.archive.org/web/20261005144414/https://www.loc.gov/resource/sn83030214/1909-08-05/ed-1/?sp=4",
+      "timestamp": "20261005144414",
+      "checkedAt": "2026-10-12"
     },
     "https://www.loc.gov/resource/sn83045462/1930-01-23/ed-1/?sp=3": {
       "refId": "evening-star-1930-01-23",
