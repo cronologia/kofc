@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-19",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -355,6 +355,12 @@
       "archiveUrl": "https://web.archive.org/web/20260907123452/https://www.loc.gov/resource/sn90060976/1913-03-01/ed-1/?sp=4",
       "timestamp": "20260907123452",
       "checkedAt": "2026-09-07"
+    },
+    "https://www.loc.gov/resource/sn90060976/1914-08-08/ed-1/?sp=1": {
+      "refId": "catholic-bulletin-1914-08-08",
+      "archiveUrl": "https://web.archive.org/web/20261019131719/https://www.loc.gov/resource/sn90060976/1914-08-08/ed-1/?sp=1",
+      "timestamp": "20261019131719",
+      "checkedAt": "2026-10-19"
     },
     "https://www.loc.gov/resource/sn90060976/1915-05-22/ed-1/?sp=1": {
       "refId": "catholic-bulletin-1915-05-22",
