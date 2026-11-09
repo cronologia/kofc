@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-09",
   "snapshots": {
     "http://www.oessh.va/content/ordineequestresantosepolcro/en.html": {
       "refId": "oessh-site",
@@ -385,6 +385,12 @@
       "archiveUrl": "https://web.archive.org/web/20260927181302/https://www.loc.gov/resource/sn92051126/1906-06-05/ed-1/?sp=5",
       "timestamp": "20260927181302",
       "checkedAt": "2026-09-28"
+    },
+    "https://www.loc.gov/resource/sn92051126/1909-09-01/ed-1/?sp=1": {
+      "refId": "nhunion-1909-09-01",
+      "archiveUrl": "https://web.archive.org/web/20261026130715/https://www.loc.gov/resource/sn92051126/1909-09-01/ed-1/?sp=1",
+      "timestamp": "20261026130715",
+      "checkedAt": "2026-11-09"
     },
     "https://www.loc.gov/resource/sn92051126/1913-02-20/ed-1/?sp=1": {
       "refId": "new-haven-union-1913-02-20",
